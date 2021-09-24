@@ -1,0 +1,28 @@
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoRedes\bin\Release\EscaneoRedes.exe
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoRedes\bin\Release\AccesoDatos.dll
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoRedes\bin\Release\Negocios.dll
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoRedes\bin\Release\AccesoDatos.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoRedes\bin\Release\Negocios.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoRedes\obj\x86\Release\EscaneoRedes.csprojResolveAssemblyReference.cache
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoRedes\obj\x86\Release\EscaneoRedes.exe
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoRedes\obj\x86\Release\EscaneoRedes.pdb
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoRedes\bin\Release\EscaneoRedes.exe.config
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoRedes\bin\Release\EscaneoRedes.exe
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoRedes\bin\Release\EscaneoRedes.pdb
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoRedes\bin\Release\AccesoDatos.dll
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoRedes\bin\Release\Negocios.dll
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoRedes\bin\Release\AccesoDatos.pdb
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoRedes\bin\Release\Negocios.pdb
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoRedes\obj\x86\Release\EscaneoRedes.csprojResolveAssemblyReference.cache
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoRedes\obj\x86\Release\EscaneoRedes.exe
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoRedes\obj\x86\Release\EscaneoRedes.pdb
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\EscaneoRedes\bin\Release\EscaneoRedes.exe.config
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\EscaneoRedes\bin\Release\EscaneoRedes.exe
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\EscaneoRedes\bin\Release\EscaneoRedes.pdb
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\EscaneoRedes\bin\Release\AccesoDatos.dll
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\EscaneoRedes\bin\Release\Negocios.dll
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\EscaneoRedes\bin\Release\AccesoDatos.pdb
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\EscaneoRedes\bin\Release\Negocios.pdb
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\EscaneoRedes\obj\x86\Release\EscaneoRedes.csprojResolveAssemblyReference.cache
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\EscaneoRedes\obj\x86\Release\EscaneoRedes.exe
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\EscaneoRedes\obj\x86\Release\EscaneoRedes.pdb

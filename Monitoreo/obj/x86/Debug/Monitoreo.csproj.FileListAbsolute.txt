@@ -1,0 +1,16 @@
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\obj\x86\Debug\Monitoreo.frmMonitoreo.resources
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\obj\x86\Debug\Monitoreo.Properties.Resources.resources
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\bin\Debug\Monitoreo.exe
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\bin\Debug\Monitoreo.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\bin\Debug\AccesoDatos.dll
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\bin\Debug\EscaneoRedes.exe
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\bin\Debug\Negocios.dll
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\bin\Debug\AccesoDatos.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\bin\Debug\Negocios.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\bin\Debug\EscaneoRedes.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\obj\x86\Debug\Monitoreo.exe
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\obj\x86\Debug\Monitoreo.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\bin\Debug\Monitoreo.exe.config

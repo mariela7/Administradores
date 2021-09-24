@@ -1,0 +1,16 @@
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\AccesoDatos\bin\Release\AccesoDatos.dll.config
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\AccesoDatos\obj\Release\AccesoDatos.pdb
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\AccesoDatos\bin\Release\AccesoDatos.dll.config
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\AccesoDatos\bin\Release\AccesoDatos.dll
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\AccesoDatos\bin\Release\AccesoDatos.pdb
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\AccesoDatos\obj\Release\AccesoDatos.dll
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\AccesoDatos\obj\Release\AccesoDatos.pdb
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\AccesoDatos\bin\Release\AccesoDatos.dll.config
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\AccesoDatos\bin\Release\AccesoDatos.dll
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\AccesoDatos\bin\Release\AccesoDatos.pdb
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\AccesoDatos\obj\Release\AccesoDatos.dll
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\AccesoDatos\obj\Release\AccesoDatos.pdb
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache

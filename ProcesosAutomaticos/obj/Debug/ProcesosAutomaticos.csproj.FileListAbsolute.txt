@@ -1,0 +1,9 @@
+c:\users\mparraga\documents\visual studio 2010\Projects\Solution_Administradores\ProcesosAutomaticos\obj\Debug\ResolveAssemblyReference.cache
+c:\users\mparraga\documents\visual studio 2010\Projects\Solution_Administradores\ProcesosAutomaticos\bin\Debug\ProcesosAutomaticos.dll
+c:\users\mparraga\documents\visual studio 2010\Projects\Solution_Administradores\ProcesosAutomaticos\bin\Debug\ProcesosAutomaticos.pdb
+c:\users\mparraga\documents\visual studio 2010\Projects\Solution_Administradores\ProcesosAutomaticos\bin\Debug\AccesoDatos.dll
+c:\users\mparraga\documents\visual studio 2010\Projects\Solution_Administradores\ProcesosAutomaticos\bin\Debug\Negocios.dll
+c:\users\mparraga\documents\visual studio 2010\Projects\Solution_Administradores\ProcesosAutomaticos\bin\Debug\AccesoDatos.pdb
+c:\users\mparraga\documents\visual studio 2010\Projects\Solution_Administradores\ProcesosAutomaticos\bin\Debug\Negocios.pdb
+c:\users\mparraga\documents\visual studio 2010\Projects\Solution_Administradores\ProcesosAutomaticos\obj\Debug\ProcesosAutomaticos.dll
+c:\users\mparraga\documents\visual studio 2010\Projects\Solution_Administradores\ProcesosAutomaticos\obj\Debug\ProcesosAutomaticos.pdb

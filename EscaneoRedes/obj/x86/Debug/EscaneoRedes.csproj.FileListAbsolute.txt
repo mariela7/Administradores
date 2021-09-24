@@ -1,0 +1,10 @@
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoRedes\bin\Debug\EscaneoRedes.exe.config
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoRedes\bin\Debug\EscaneoRedes.exe
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoRedes\bin\Debug\EscaneoRedes.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoRedes\bin\Debug\AccesoDatos.dll
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoRedes\bin\Debug\Negocios.dll
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoRedes\bin\Debug\AccesoDatos.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoRedes\bin\Debug\Negocios.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoRedes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoRedes\obj\x86\Debug\EscaneoRedes.exe
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoRedes\obj\x86\Debug\EscaneoRedes.pdb

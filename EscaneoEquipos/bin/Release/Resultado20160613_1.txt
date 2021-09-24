@@ -1,0 +1,2467 @@
+Found 277 active IP-addresses.
+Total IPs: 257
+Vueltas: 1
+##### Inicio Hilo 1 IPS: 51
+##### Hilo 1. Ejecutando...
+Vueltas: 2
+##### Inicio Hilo 2 IPS: 51
+##### Hilo 2. Ejecutando...
+Vueltas: 3
+##### Inicio Hilo 3 IPS: 51
+##### Hilo 3. Ejecutando...
+Vueltas: 4
+##### Inicio Hilo 4 IPS: 51
+##### Hilo 4. Ejecutando...
+Vueltas: 5
+##### Inicio Hilo 5 IPS: 51
+##### Hilo 5. Ejecutando...
+Vueltas: 6
+##### Inicio Hilo 6 IPS: 2
+##### Hilo 6. Ejecutando...
+_____Inicio Escaneo Hilo: 1 - FI: 9:56:06
+# Hilo 1 - 10.0.232.186
+# Hilo 1 - 10.22.0.10
+# Hilo 1 - 10.0.175.138
+# Hilo 1 - 10.0.177.1
+# Hilo 1 - 10.0.55.71
+# Hilo 1 - 10.0.85.191
+# Hilo 1 - 10.0.85.94
+# Hilo 1 - 10.0.85.236
+# Hilo 1 - 10.0.176.200
+# Hilo 1 - 10.0.91.122
+# Hilo 1 - 10.0.150.230
+# Hilo 1 - 10.0.85.113
+# Hilo 1 - 10.0.183.120
+# Hilo 1 - 10.220.3.123
+# Hilo 1 - 10.4.0.184
+# Hilo 1 - 10.0.233.114
+# Hilo 1 - 10.207.60.29
+# Hilo 1 - 10.207.60.77
+# Hilo 1 - 10.0.112.40
+# Hilo 1 - 10.207.68.104
+# Hilo 1 - 10.207.60.72
+# Hilo 1 - 10.207.60.48
+# Hilo 1 - 10.1.12.72
+# Hilo 1 - 10.0.233.201
+# Hilo 1 - 10.0.234.33
+# Hilo 1 - 10.17.22.139
+# Hilo 1 - 10.18.0.103
+# Hilo 1 - 10.6.21.117
+# Hilo 1 - 10.17.22.133
+# Hilo 1 - 10.150.28.89
+# Hilo 1 - 10.150.1.74
+_____Inicio Escaneo Hilo: 5 - FI: 9:56:06
+_____Inicio Escaneo Hilo: 6 - FI: 9:56:06
+# Hilo 6 - 10.0.85.104
+# Hilo 6 - 10.0.177.11
+**HILO: 6 - IP: 10.0.85.104 - FI: 9:56:06 **
+# Hilo 1 - 10.150.2.159
+# Hilo 1 - 10.150.2.158
+# Hilo 1 - 10.150.1.206
+# Hilo 1 - 10.150.1.204
+# Hilo 1 - 10.150.1.205
+# Hilo 5 - 10.0.39.245
+# Hilo 5 - 10.0.168.245
+# Hilo 5 - 10.0.177.167
+# Hilo 5 - 10.0.190.245
+# Hilo 5 - 10.22.7.96
+# Hilo 5 - 10.0.85.195
+# Hilo 5 - 10.0.64.99
+# Hilo 5 - 10.1.6.93
+# Hilo 5 - 10.0.97.121
+# Hilo 5 - 10.0.97.74
+# Hilo 5 - 10.0.97.79
+# Hilo 5 - 10.0.85.15
+# Hilo 5 - 10.0.65.55
+# Hilo 5 - 10.0.176.119
+# Hilo 5 - 10.0.97.129
+# Hilo 5 - 10.0.176.136
+# Hilo 5 - 10.0.183.50
+# Hilo 5 - 10.0.64.204
+# Hilo 5 - 10.0.148.173
+# Hilo 5 - 10.0.150.57
+# Hilo 5 - 10.0.65.229
+# Hilo 5 - 10.0.97.142
+# Hilo 5 - 10.0.97.131
+# Hilo 5 - 10.0.148.62
+# Hilo 5 - 10.0.136.69
+# Hilo 5 - 10.0.148.109
+# Hilo 5 - 10.0.136.81
+# Hilo 5 - 10.0.136.139
+# Hilo 5 - 10.0.233.81
+# Hilo 5 - 10.0.136.154
+# Hilo 5 - 10.0.136.198
+# Hilo 5 - 10.0.136.30
+# Hilo 5 - 10.0.137.64
+# Hilo 5 - 10.0.137.63
+# Hilo 5 - 10.0.136.38
+# Hilo 5 - 10.0.136.56
+# Hilo 5 - 10.0.136.57
+# Hilo 5 - 10.0.137.108
+# Hilo 5 - 10.0.136.45
+# Hilo 5 - 10.0.137.29
+# Hilo 5 - 10.0.136.250
+# Hilo 5 - 10.0.233.13
+# Hilo 5 - 10.0.137.176
+# Hilo 5 - 10.0.137.161
+# Hilo 5 - 10.0.236.76
+# Hilo 5 - 10.0.237.47
+# Hilo 5 - 10.0.236.96
+# Hilo 5 - 10.0.138.45
+# Hilo 5 - 10.0.97.76
+# Hilo 5 - 10.0.150.67
+# Hilo 5 - 10.0.238.87
+**HILO: 5 - IP: 10.0.39.245 - FI: 9:56:06 **
+# Hilo 1 - 10.150.1.148
+# Hilo 1 - 10.150.1.146
+# Hilo 1 - 10.150.28.87
+# Hilo 1 - 10.150.28.88
+# Hilo 1 - 10.150.28.74
+# Hilo 1 - 10.150.0.34
+# Hilo 1 - 10.150.12.38
+# Hilo 1 - 10.150.12.118
+_____Inicio Escaneo Hilo: 4 - FI: 9:56:06
+# Hilo 4 - 10.0.84.129
+# Hilo 4 - 10.0.83.28
+# Hilo 4 - 10.0.85.92
+# Hilo 4 - 10.0.85.162
+# Hilo 4 - 10.0.85.34
+# Hilo 4 - 10.0.97.78
+# Hilo 4 - 10.0.20.130
+# Hilo 4 - 10.12.6.136
+# Hilo 4 - 10.0.29.81
+# Hilo 4 - 10.0.10.136
+# Hilo 4 - 10.0.10.240
+# Hilo 4 - 10.0.233.41
+# Hilo 4 - 10.0.7.110
+# Hilo 4 - 10.22.1.144
+# Hilo 4 - 10.0.188.130
+# Hilo 4 - 10.22.4.70
+# Hilo 4 - 10.0.144.183
+# Hilo 4 - 10.22.7.87
+_____Inicio Escaneo Hilo: 3 - FI: 9:56:06
+# Hilo 3 - 10.0.188.98
+# Hilo 3 - 10.0.183.78
+# Hilo 3 - 10.0.79.19
+# Hilo 3 - 10.0.238.142
+# Hilo 3 - 10.0.150.23
+# Hilo 3 - 10.0.9.162
+# Hilo 3 - 10.151.1.85
+# Hilo 3 - 10.151.1.103
+# Hilo 3 - 10.207.60.15
+# Hilo 3 - 10.0.232.214
+# Hilo 3 - 10.0.10.121
+# Hilo 3 - 10.0.198.153
+# Hilo 3 - 10.0.198.151
+# Hilo 3 - 10.0.233.4
+# Hilo 3 - 10.0.214.106
+# Hilo 3 - 10.0.198.145
+# Hilo 3 - 10.0.232.140
+# Hilo 3 - 10.0.67.134
+# Hilo 3 - 10.0.232.187
+# Hilo 3 - 10.0.17.135
+# Hilo 3 - 10.0.84.54
+# Hilo 3 - 10.0.91.56
+# Hilo 3 - 10.0.85.122
+# Hilo 3 - 10.14.1.147
+# Hilo 3 - 10.0.31.87
+# Hilo 3 - 10.14.4.91
+# Hilo 3 - 10.14.4.190
+# Hilo 3 - 10.0.85.187
+# Hilo 3 - 10.0.83.94
+# Hilo 3 - 10.0.83.122
+# Hilo 3 - 10.0.85.105
+# Hilo 3 - 10.0.84.112
+# Hilo 1 - 10.150.12.129
+# Hilo 1 - 10.150.12.46
+# Hilo 1 - 10.150.70.12
+# Hilo 1 - 10.150.0.113
+# Hilo 1 - 10.150.1.234
+# Hilo 1 - 10.150.1.8
+# Hilo 1 - 10.150.2.83
+**HILO: 1 - IP: 10.0.232.186 - FI: 9:56:06 **
+# Hilo 3 - 10.0.84.183
+# Hilo 3 - 10.0.91.45
+# Hilo 3 - 10.0.85.244
+# Hilo 3 - 10.0.85.47
+# Hilo 3 - 10.0.85.62
+# Hilo 3 - 10.0.83.62
+# Hilo 3 - 10.0.83.127
+# Hilo 3 - 10.0.91.63
+# Hilo 3 - 10.0.91.135
+# Hilo 3 - 10.0.83.150
+# Hilo 3 - 10.0.83.17
+# Hilo 3 - 10.0.83.132
+# Hilo 3 - 10.0.85.44
+# Hilo 3 - 10.0.85.36
+# Hilo 3 - 10.0.85.192
+# Hilo 3 - 10.0.85.119
+# Hilo 3 - 10.0.83.135
+# Hilo 3 - 10.0.85.249
+# Hilo 3 - 10.0.85.148
+**HILO: 3 - IP: 10.0.188.98 - FI: 9:56:06 **
+_____Inicio Escaneo Hilo: 2 - FI: 9:56:06
+# Hilo 2 - 10.150.0.103
+# Hilo 2 - 10.150.1.85
+# Hilo 2 - 10.150.1.198
+# Hilo 2 - 10.150.1.42
+# Hilo 2 - 10.150.0.12
+# Hilo 2 - 10.150.0.58
+# Hilo 2 - 10.150.1.103
+# Hilo 2 - 10.150.1.78
+# Hilo 2 - 10.150.68.19
+# Hilo 2 - 10.0.177.143
+# Hilo 2 - 10.0.85.52
+# Hilo 2 - 10.0.85.108
+# Hilo 2 - 10.0.85.242
+# Hilo 2 - 10.8.0.118
+# Hilo 2 - 10.8.23.134
+# Hilo 2 - 10.0.183.190
+# Hilo 2 - 10.8.23.151
+# Hilo 2 - 10.21.29.70
+# Hilo 2 - 10.8.23.142
+# Hilo 2 - 10.5.43.41
+# Hilo 2 - 172.20.41.36
+# Hilo 2 - 10.151.28.23
+# Hilo 2 - 10.32.128.24
+# Hilo 2 - 10.32.128.46
+# Hilo 2 - 10.0.0.136
+# Hilo 2 - 10.0.2.159
+# Hilo 2 - 10.151.1.74
+# Hilo 2 - 10.151.1.206
+# Hilo 2 - 10.0.2.158
+# Hilo 2 - 10.0.2.161
+# Hilo 2 - 10.151.1.205
+# Hilo 2 - 10.151.1.146
+# Hilo 2 - 10.151.1.148
+# Hilo 2 - 10.0.92.60
+# Hilo 2 - 10.11.0.227
+# Hilo 2 - 10.1.6.184
+# Hilo 2 - 10.1.6.169
+# Hilo 2 - 10.1.7.79
+# Hilo 2 - 10.1.7.106
+# Hilo 2 - 10.1.6.244
+# Hilo 2 - 10.1.55.84
+# Hilo 2 - 10.1.6.69
+# Hilo 2 - 10.1.23.77
+# Hilo 2 - 10.1.7.12
+# Hilo 2 - 10.1.1.2
+# Hilo 2 - 10.21.22.138
+# Hilo 2 - 10.21.25.131
+# Hilo 2 - 10.21.25.143
+# Hilo 2 - 10.10.19.78
+# Hilo 2 - 10.21.27.96
+# Hilo 2 - 10.6.21.104
+**HILO: 2 - IP: 10.150.0.103 - FI: 9:56:06 **
+# Hilo 4 - 10.0.5.89
+# Hilo 4 - 10.0.232.156
+# Hilo 4 - 10.0.5.55
+# Hilo 4 - 10.0.40.141
+# Hilo 4 - 10.0.10.194
+# Hilo 4 - 10.22.2.21
+# Hilo 4 - 10.0.5.126
+# Hilo 4 - 10.0.218.44
+# Hilo 4 - 10.22.1.19
+# Hilo 4 - 10.7.19.75
+# Hilo 4 - 10.22.7.94
+# Hilo 4 - 10.0.218.72
+# Hilo 4 - 10.0.94.145
+# Hilo 4 - 10.0.233.161
+# Hilo 4 - 10.0.126.67
+# Hilo 4 - 10.14.4.131
+# Hilo 4 - 10.0.76.110
+# Hilo 4 - 10.14.20.134
+# Hilo 4 - 10.14.15.70
+# Hilo 4 - 10.0.233.164
+# Hilo 4 - 10.21.30.77
+# Hilo 4 - 10.0.176.156
+# Hilo 4 - 10.0.176.54
+# Hilo 4 - 10.0.177.31
+# Hilo 4 - 10.0.83.137
+# Hilo 4 - 10.0.177.15
+# Hilo 4 - 10.0.69.76
+# Hilo 4 - 10.0.176.88
+# Hilo 4 - 10.0.91.28
+# Hilo 4 - 10.0.91.110
+# Hilo 4 - 10.0.183.168
+# Hilo 4 - 10.1.168.245
+# Hilo 4 - 10.0.88.245
+**HILO: 4 - IP: 10.0.84.129 - FI: 9:56:06 **
+*** Hilo: 6 - 10.0.85.104 ***
+*** Hilo: 5 - 10.0.39.245 ***
+*** Hilo: 1 - 10.0.232.186 ***
+*** Hilo: 3 - 10.0.188.98 ***
+*** Hilo: 2 - 10.150.0.103 ***
+*** Hilo: 4 - 10.0.84.129 ***
+Inicio
+Inicio
+Inicio
+Inicio
+Inicio
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Nombre Maquina. U: M: 
+ERROR: Antivirus
+**HILO: 3 - IP: 10.0.188.98 - FF: 9:56:09 **
+**HILO: 3 - IP: 10.0.183.78 - FI: 9:56:09 **
+*** Hilo: 3 - 10.0.183.78 ***
+Inicio
+ERROR: SO
+ERROR: Antivirus
+**HILO: 6 - IP: 10.0.85.104 - FF: 9:56:09 **
+**HILO: 6 - IP: 10.0.177.11 - FI: 9:56:09 **
+*** Hilo: 6 - 10.0.177.11 ***
+Inicio
+Nombre Maquina
+Nombre Maquina
+Nombre Maquina
+SO
+SO
+SO
+SO
+Antivirus
+****FM: ECUIO0121905
+****FM: ECUIO096668
+Nombre Maquina
+****FM: DRECUIO012Q13
+SO
+Antivirus
+****FM: BT320339
+Administradores Ingles
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.0.84.129 - FF: 9:56:14 **
+**HILO: 4 - IP: 10.0.83.28 - FI: 9:56:14 **
+*** Hilo: 4 - 10.0.83.28 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+Error Administradores Espa¤ol
+**HILO: 3 - IP: 10.0.183.78 - FF: 9:56:14 **
+**HILO: 3 - IP: 10.0.79.19 - FI: 9:56:14 **
+*** Hilo: 3 - 10.0.79.19 ***
+Inicio
+Administradores Ingles
+ERROR: Antivirus
+**HILO: 4 - IP: 10.0.83.28 - FF: 9:56:14 **
+**HILO: 4 - IP: 10.0.85.92 - FI: 9:56:14 **
+*** Hilo: 4 - 10.0.85.92 ***
+Inicio
+Antivirus
+Error Administradores Ingles
+Nombre Maquina
+Administradores Espa¤ol
+SO
+Nombre Maquina
+SO
+****FM: ECUIO096680
+**HILO: 4 - IP: 10.0.85.92 - FF: 9:56:15 **
+**HILO: 4 - IP: 10.0.85.162 - FI: 9:56:15 **
+*** Hilo: 4 - 10.0.85.162 ***
+Inicio
+**HILO: 6 - IP: 10.0.177.11 - FF: 9:56:15 **
+_____Fin Escaneo Hilo: 6 - FF: 9:56:15
+****FM: ECUIO0121919
+Nombre Maquina
+SO
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.150.0.103 - FF: 9:56:15 **
+**HILO: 2 - IP: 10.150.1.85 - FI: 9:56:15 **
+*** Hilo: 2 - 10.150.1.85 ***
+Inicio
+****FM: BLOOMBERG2
+****FM: ECUIO096861
+**HILO: 4 - IP: 10.0.85.162 - FF: 9:56:16 **
+**HILO: 4 - IP: 10.0.85.34 - FI: 9:56:16 **
+*** Hilo: 4 - 10.0.85.34 ***
+Inicio
+Nombre Maquina
+SO
+SO
+****FM: DRECBPPRCL21
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 1 - IP: 10.0.232.186 - FF: 9:56:19 **
+**HILO: 1 - IP: 10.22.0.10 - FI: 9:56:19 **
+*** Hilo: 1 - 10.22.0.10 ***
+Inicio
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 3 - IP: 10.0.79.19 - FF: 9:56:23 **
+**HILO: 3 - IP: 10.0.238.142 - FI: 9:56:23 **
+*** Hilo: 3 - 10.0.238.142 ***
+Inicio
+Administradores Ingles
+Nombre Maquina
+SO
+Antivirus
+ERROR: Nombre Maquina. U: M: 
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.150.1.85 - FF: 9:56:28 **
+**HILO: 2 - IP: 10.150.1.198 - FI: 9:56:28 **
+*** Hilo: 2 - 10.150.1.198 ***
+Inicio
+****FM: ECUIO0122018
+SO
+****FM: DRECUIO012Q32
+Administradores Ingles
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 3 - IP: 10.0.238.142 - FF: 9:56:35 **
+**HILO: 3 - IP: 10.0.150.23 - FI: 9:56:35 **
+*** Hilo: 3 - 10.0.150.23 ***
+Inicio
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.150.1.198 - FF: 9:56:35 **
+**HILO: 2 - IP: 10.150.1.42 - FI: 9:56:35 **
+*** Hilo: 2 - 10.150.1.42 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 3 - IP: 10.0.150.23 - FF: 9:56:35 **
+**HILO: 3 - IP: 10.0.9.162 - FI: 9:56:35 **
+*** Hilo: 3 - 10.0.9.162 ***
+Inicio
+Nombre Maquina
+SO
+Antivirus
+****FM: ECUIO0122316
+SO
+****FM: DRECUIO012Q26
+Error Administradores Ingles
+Administradores Espa¤ol
+ERROR: Nombre Maquina. U: M: 
+**HILO: 3 - IP: 10.0.9.162 - FF: 9:56:40 **
+**HILO: 3 - IP: 10.151.1.85 - FI: 9:56:40 **
+*** Hilo: 3 - 10.151.1.85 ***
+Inicio
+SO
+****FM: ECBPPRCL21
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.150.1.42 - FF: 9:56:45 **
+**HILO: 2 - IP: 10.150.0.12 - FI: 9:56:45 **
+*** Hilo: 2 - 10.150.0.12 ***
+Inicio
+SO
+Antivirus
+****FM: DRECUIO012TS2
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 3 - IP: 10.151.1.85 - FF: 9:56:49 **
+**HILO: 3 - IP: 10.151.1.103 - FI: 9:56:49 **
+*** Hilo: 3 - 10.151.1.103 ***
+Inicio
+ERROR: SO
+Administradores Ingles
+SO
+****FM: ECBPPRCL20
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.150.0.12 - FF: 9:56:51 **
+**HILO: 2 - IP: 10.150.0.58 - FI: 9:56:51 **
+*** Hilo: 2 - 10.150.0.58 ***
+Inicio
+****FM: ECUIO096846
+**HILO: 4 - IP: 10.0.85.34 - FF: 9:56:51 **
+**HILO: 4 - IP: 10.0.97.78 - FI: 9:56:51 **
+*** Hilo: 4 - 10.0.97.78 ***
+Inicio
+SO
+Antivirus
+****FM: DRECUIO012SW1
+Nombre Maquina
+SO
+****FM: ECUIO096844
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 3 - IP: 10.151.1.103 - FF: 9:56:56 **
+**HILO: 3 - IP: 10.207.60.15 - FI: 9:56:56 **
+*** Hilo: 3 - 10.207.60.15 ***
+Inicio
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.150.0.58 - FF: 9:56:57 **
+**HILO: 2 - IP: 10.150.1.103 - FI: 9:56:57 **
+*** Hilo: 2 - 10.150.1.103 ***
+Inicio
+Error Administradores Ingles
+SO
+****FM: DRECBPPRCL20
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.0.97.78 - FF: 9:57:00 **
+**HILO: 4 - IP: 10.0.20.130 - FI: 9:57:00 **
+*** Hilo: 4 - 10.0.20.130 ***
+Inicio
+ERROR: SO
+Nombre Maquina
+Administradores Ingles
+SO
+Antivirus
+****FM: ECUIO121024
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.150.1.103 - FF: 9:57:04 **
+**HILO: 2 - IP: 10.150.1.78 - FI: 9:57:04 **
+*** Hilo: 2 - 10.150.1.78 ***
+Inicio
+SO
+Antivirus
+****FM: DRECUIO012W39
+Error Administradores Ingles
+Administradores Ingles
+Administradores Espa¤ol
+ERROR: Antivirus
+**HILO: 5 - IP: 10.0.39.245 - FF: 9:57:10 **
+**HILO: 5 - IP: 10.0.168.245 - FI: 9:57:10 **
+*** Hilo: 5 - 10.0.168.245 ***
+Inicio
+**HILO: 4 - IP: 10.0.20.130 - FF: 9:57:10 **
+**HILO: 4 - IP: 10.12.6.136 - FI: 9:57:10 **
+*** Hilo: 4 - 10.12.6.136 ***
+Inicio
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.150.1.78 - FF: 9:57:11 **
+**HILO: 2 - IP: 10.150.68.19 - FI: 9:57:11 **
+*** Hilo: 2 - 10.150.68.19 ***
+Inicio
+SO
+****FM: DRECUIO242W03
+ERROR: Nombre Maquina. U: M: 
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.150.68.19 - FF: 9:57:19 **
+**HILO: 2 - IP: 10.0.177.143 - FI: 9:57:19 **
+*** Hilo: 2 - 10.0.177.143 ***
+Inicio
+SO
+****FM: EC012295
+ERROR: Antivirus
+**HILO: 1 - IP: 10.22.0.10 - FF: 9:57:22 **
+**HILO: 1 - IP: 10.0.175.138 - FI: 9:57:22 **
+*** Hilo: 1 - 10.0.175.138 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 1 - IP: 10.0.175.138 - FF: 9:57:22 **
+**HILO: 1 - IP: 10.0.177.1 - FI: 9:57:22 **
+*** Hilo: 1 - 10.0.177.1 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 1 - IP: 10.0.177.1 - FF: 9:57:23 **
+**HILO: 1 - IP: 10.0.55.71 - FI: 9:57:23 **
+*** Hilo: 1 - 10.0.55.71 ***
+Inicio
+Nombre Maquina
+SO
+****FM: BT316390
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 2 - IP: 10.0.177.143 - FF: 9:57:27 **
+**HILO: 2 - IP: 10.0.85.52 - FI: 9:57:27 **
+*** Hilo: 2 - 10.0.85.52 ***
+Inicio
+Nombre Maquina
+SO
+****FM: EC095425
+**HILO: 2 - IP: 10.0.85.52 - FF: 9:57:29 **
+**HILO: 2 - IP: 10.0.85.108 - FI: 9:57:29 **
+*** Hilo: 2 - 10.0.85.108 ***
+Inicio
+Nombre Maquina
+SO
+Antivirus
+****FM: EC095489
+**HILO: 2 - IP: 10.0.85.108 - FF: 9:57:31 **
+**HILO: 2 - IP: 10.0.85.242 - FI: 9:57:31 **
+*** Hilo: 2 - 10.0.85.242 ***
+Inicio
+Error Administradores Ingles
+Administradores Espa¤ol
+ERROR: Nombre Maquina. U: M: 
+**HILO: 1 - IP: 10.0.55.71 - FF: 9:57:31 **
+**HILO: 1 - IP: 10.0.85.191 - FI: 9:57:31 **
+*** Hilo: 1 - 10.0.85.191 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+Nombre Maquina
+SO
+Nombre Maquina
+****FM: EC095583
+**HILO: 2 - IP: 10.0.85.242 - FF: 9:57:31 **
+**HILO: 2 - IP: 10.8.0.118 - FI: 9:57:31 **
+*** Hilo: 2 - 10.8.0.118 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 2 - IP: 10.8.0.118 - FF: 9:57:32 **
+**HILO: 2 - IP: 10.8.23.134 - FI: 9:57:32 **
+*** Hilo: 2 - 10.8.23.134 ***
+Inicio
+SO
+****FM: BT316495
+**HILO: 1 - IP: 10.0.85.191 - FF: 9:57:33 **
+**HILO: 1 - IP: 10.0.85.94 - FI: 9:57:33 **
+*** Hilo: 1 - 10.0.85.94 ***
+Inicio
+Nombre Maquina
+SO
+Nombre Maquina
+SO
+****FM: BT316496
+**HILO: 1 - IP: 10.0.85.94 - FF: 9:57:34 **
+**HILO: 1 - IP: 10.0.85.236 - FI: 9:57:34 **
+*** Hilo: 1 - 10.0.85.236 ***
+Inicio
+Antivirus
+****FM: ECAMB039305
+Nombre Maquina
+SO
+Antivirus
+****FM: BT318766
+**HILO: 1 - IP: 10.0.85.236 - FF: 9:57:36 **
+**HILO: 1 - IP: 10.0.176.200 - FI: 9:57:36 **
+*** Hilo: 1 - 10.0.176.200 ***
+Inicio
+ERROR: SO
+SO
+Antivirus
+****FM: BT320854
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 2 - IP: 10.8.23.134 - FF: 9:57:42 **
+**HILO: 2 - IP: 10.0.183.190 - FI: 9:57:42 **
+*** Hilo: 2 - 10.0.183.190 ***
+Inicio
+Nombre Maquina
+SO
+****FM: DRTCSUIO1619881
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 1 - IP: 10.0.176.200 - FF: 9:57:45 **
+**HILO: 1 - IP: 10.0.91.122 - FI: 9:57:45 **
+*** Hilo: 1 - 10.0.91.122 ***
+Inicio
+Nombre Maquina
+SO
+Antivirus
+****FM: BT321826
+Administradores Ingles
+ERROR: SO
+ERROR: SO
+Error Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.0.183.190 - FF: 9:57:52 **
+**HILO: 2 - IP: 10.8.23.151 - FI: 9:57:52 **
+*** Hilo: 2 - 10.8.23.151 ***
+Inicio
+Administradores Espa¤ol
+Nombre Maquina
+**HILO: 1 - IP: 10.0.91.122 - FF: 9:57:53 **
+**HILO: 1 - IP: 10.0.150.230 - FI: 9:57:53 **
+*** Hilo: 1 - 10.0.150.230 ***
+Inicio
+SO
+****FM: ECAMB277012
+ERROR: Antivirus
+**HILO: 3 - IP: 10.207.60.15 - FF: 9:57:59 **
+**HILO: 3 - IP: 10.0.232.214 - FI: 9:57:59 **
+*** Hilo: 3 - 10.0.232.214 ***
+Inicio
+Nombre Maquina
+SO
+Antivirus
+****FM: ECUIO016592
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 2 - IP: 10.8.23.151 - FF: 9:58:02 **
+**HILO: 2 - IP: 10.21.29.70 - FI: 9:58:02 **
+*** Hilo: 2 - 10.21.29.70 ***
+Inicio
+Nombre Maquina
+SO
+****FM: ECAMB471008
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 3 - IP: 10.0.232.214 - FF: 9:58:06 **
+**HILO: 3 - IP: 10.0.10.121 - FI: 9:58:06 **
+*** Hilo: 3 - 10.0.10.121 ***
+Inicio
+Nombre Maquina
+SO
+Antivirus
+****FM: CRUIO2421037
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 2 - IP: 10.21.29.70 - FF: 9:58:08 **
+**HILO: 2 - IP: 10.8.23.142 - FI: 9:58:08 **
+*** Hilo: 2 - 10.8.23.142 ***
+Inicio
+Nombre Maquina
+SO
+Antivirus
+****FM: ECAMB277251
+Error Administradores Ingles
+ERROR: Antivirus
+**HILO: 5 - IP: 10.0.168.245 - FF: 9:58:13 **
+**HILO: 5 - IP: 10.0.177.167 - FI: 9:58:13 **
+*** Hilo: 5 - 10.0.177.167 ***
+Inicio
+ERROR: Antivirus
+**HILO: 4 - IP: 10.12.6.136 - FF: 9:58:13 **
+**HILO: 4 - IP: 10.0.29.81 - FI: 9:58:13 **
+*** Hilo: 4 - 10.0.29.81 ***
+Inicio
+Administradores Espa¤ol
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 4 - IP: 10.0.29.81 - FF: 9:58:13 **
+**HILO: 4 - IP: 10.0.10.136 - FI: 9:58:13 **
+*** Hilo: 4 - 10.0.10.136 ***
+Inicio
+Nombre Maquina
+**HILO: 3 - IP: 10.0.10.121 - FF: 9:58:14 **
+**HILO: 3 - IP: 10.0.198.153 - FI: 9:58:14 **
+*** Hilo: 3 - 10.0.198.153 ***
+Inicio
+SO
+Error Administradores Ingles
+****FM: LGUIO01200010
+Administradores Espa¤ol
+**HILO: 2 - IP: 10.8.23.142 - FF: 9:58:15 **
+**HILO: 2 - IP: 10.5.43.41 - FI: 9:58:15 **
+*** Hilo: 2 - 10.5.43.41 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 2 - IP: 10.5.43.41 - FF: 9:58:16 **
+**HILO: 2 - IP: 172.20.41.36 - FI: 9:58:16 **
+*** Hilo: 2 - 172.20.41.36 ***
+Inicio
+Nombre Maquina
+SO
+Antivirus
+****FM: ECUIO0168024
+Nombre Maquina
+SO
+Antivirus
+****FM: ECUIO016263
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 3 - IP: 10.0.198.153 - FF: 9:58:20 **
+**HILO: 3 - IP: 10.0.198.151 - FI: 9:58:20 **
+*** Hilo: 3 - 10.0.198.151 ***
+Inicio
+Nombre Maquina
+Administradores Ingles
+Error Administradores Ingles
+SO
+Administradores Espa¤ol
+Antivirus
+****FM: ECUIO0168025
+Error Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.177.167 - FF: 9:58:22 **
+**HILO: 5 - IP: 10.0.190.245 - FI: 9:58:22 **
+*** Hilo: 5 - 10.0.190.245 ***
+Inicio
+**HILO: 4 - IP: 10.0.10.136 - FF: 9:58:22 **
+**HILO: 4 - IP: 10.0.10.240 - FI: 9:58:22 **
+*** Hilo: 4 - 10.0.10.240 ***
+Inicio
+Nombre Maquina
+SO
+****FM: ECUIO1970337
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 3 - IP: 10.0.198.151 - FF: 9:58:25 **
+**HILO: 3 - IP: 10.0.233.4 - FI: 9:58:25 **
+*** Hilo: 3 - 10.0.233.4 ***
+Inicio
+Nombre Maquina
+SO
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.0.10.240 - FF: 9:58:29 **
+**HILO: 4 - IP: 10.0.233.41 - FI: 9:58:29 **
+*** Hilo: 4 - 10.0.233.41 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+Antivirus
+ERROR: SO
+ERROR: Antivirus
+**HILO: 4 - IP: 10.0.233.41 - FF: 9:58:30 **
+**HILO: 4 - IP: 10.0.7.110 - FI: 9:58:30 **
+*** Hilo: 4 - 10.0.7.110 ***
+Inicio
+SO
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 4 - IP: 10.0.7.110 - FF: 9:58:30 **
+**HILO: 4 - IP: 10.22.1.144 - FI: 9:58:30 **
+*** Hilo: 4 - 10.22.1.144 ***
+****FM: ECUIO016843
+Inicio
+Nombre Maquina
+SO
+Antivirus
+****FM: ECUIO197507
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 3 - IP: 10.0.233.4 - FF: 9:58:34 **
+**HILO: 3 - IP: 10.0.214.106 - FI: 9:58:34 **
+*** Hilo: 3 - 10.0.214.106 ***
+Inicio
+****FM: ECBGR012002
+Nombre Maquina
+Error Administradores Ingles
+SO
+Administradores Espa¤ol
+Antivirus
+ERROR: Nombre Maquina. U: M: 
+****FM: ECUIO016852
+**HILO: 4 - IP: 10.22.1.144 - FF: 9:58:41 **
+**HILO: 4 - IP: 10.0.188.130 - FI: 9:58:41 **
+*** Hilo: 4 - 10.0.188.130 ***
+Inicio
+Administradores Ingles
+Nombre Maquina
+ERROR: Nombre Maquina. U: M: 
+SO
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 172.20.41.36 - FF: 9:58:44 **
+**HILO: 2 - IP: 10.151.28.23 - FI: 9:58:44 **
+*** Hilo: 2 - 10.151.28.23 ***
+Inicio
+****FM: ECUIO1976031
+Error Administradores Ingles
+Administradores Espa¤ol
+SO
+Error Administradores Ingles
+**HILO: 3 - IP: 10.0.214.106 - FF: 9:58:57 **
+**HILO: 3 - IP: 10.0.198.145 - FI: 9:58:57 **
+*** Hilo: 3 - 10.0.198.145 ***
+Inicio
+Administradores Espa¤ol
+****FM: ECBPPRMB02
+Nombre Maquina
+**HILO: 4 - IP: 10.0.188.130 - FF: 9:59:01 **
+**HILO: 4 - IP: 10.22.4.70 - FI: 9:59:01 **
+*** Hilo: 4 - 10.22.4.70 ***
+Inicio
+SO
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.151.28.23 - FF: 9:59:03 **
+**HILO: 2 - IP: 10.32.128.24 - FI: 9:59:03 **
+*** Hilo: 2 - 10.32.128.24 ***
+Inicio
+****FM: ECUIO0168889
+ERROR: SO
+SO
+****FM: ECBPPRMB12
+Nombre Maquina
+SO
+Error Administradores Ingles
+Antivirus
+****FM: ECUIO197637
+Administradores Espa¤ol
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.32.128.24 - FF: 9:59:12 **
+**HILO: 2 - IP: 10.32.128.46 - FI: 9:59:12 **
+*** Hilo: 2 - 10.32.128.46 ***
+Inicio
+**HILO: 3 - IP: 10.0.198.145 - FF: 9:59:13 **
+**HILO: 3 - IP: 10.0.232.140 - FI: 9:59:13 **
+*** Hilo: 3 - 10.0.232.140 ***
+Inicio
+Nombre Maquina
+SO
+SO
+Antivirus
+****FM: ECUIO016973
+****FM: ECBPPRMN11
+Error Administradores Ingles
+Administradores Ingles
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.22.4.70 - FF: 9:59:20 **
+**HILO: 4 - IP: 10.0.144.183 - FI: 9:59:20 **
+*** Hilo: 4 - 10.0.144.183 ***
+Inicio
+Error Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.32.128.46 - FF: 9:59:21 **
+**HILO: 2 - IP: 10.0.0.136 - FI: 9:59:21 **
+*** Hilo: 2 - 10.0.0.136 ***
+Inicio
+Administradores Espa¤ol
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 2 - IP: 10.0.0.136 - FF: 9:59:21 **
+**HILO: 2 - IP: 10.0.2.159 - FI: 9:59:21 **
+*** Hilo: 2 - 10.0.2.159 ***
+Inicio
+**HILO: 3 - IP: 10.0.232.140 - FF: 9:59:22 **
+**HILO: 3 - IP: 10.0.67.134 - FI: 9:59:22 **
+*** Hilo: 3 - 10.0.67.134 ***
+Inicio
+Nombre Maquina
+SO
+Antivirus
+****FM: ECUIO024128
+SO
+****FM: ECBPPRCL4
+Nombre Maquina
+ERROR: Antivirus
+**HILO: 5 - IP: 10.0.190.245 - FF: 9:59:25 **
+**HILO: 5 - IP: 10.22.7.96 - FI: 9:59:25 **
+*** Hilo: 5 - 10.22.7.96 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 5 - IP: 10.22.7.96 - FF: 9:59:25 **
+**HILO: 5 - IP: 10.0.85.195 - FI: 9:59:25 **
+*** Hilo: 5 - 10.0.85.195 ***
+Inicio
+Nombre Maquina
+SO
+ERROR: SO
+Antivirus
+****FM: ECUIO095383
+**HILO: 5 - IP: 10.0.85.195 - FF: 9:59:27 **
+**HILO: 5 - IP: 10.0.64.99 - FI: 9:59:27 **
+*** Hilo: 5 - 10.0.64.99 ***
+Inicio
+SO
+Error Administradores Ingles
+Administradores Ingles
+Administradores Espa¤ol
+Nombre Maquina
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.0.2.159 - FF: 9:59:31 **
+**HILO: 2 - IP: 10.151.1.74 - FI: 9:59:31 **
+*** Hilo: 2 - 10.151.1.74 ***
+Inicio
+**HILO: 3 - IP: 10.0.67.134 - FF: 9:59:31 **
+**HILO: 3 - IP: 10.0.232.187 - FI: 9:59:31 **
+*** Hilo: 3 - 10.0.232.187 ***
+Inicio
+SO
+Antivirus
+****FM: ECUIO0167005
+Nombre Maquina
+SO
+****FM: ECUIO017005
+****FM: TCSINTERCANAL
+SO
+****FM: ECBPPRCL20
+Error Administradores Ingles
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.64.99 - FF: 9:59:39 **
+**HILO: 5 - IP: 10.1.6.93 - FI: 9:59:39 **
+*** Hilo: 5 - 10.1.6.93 ***
+Inicio
+Administradores Espa¤ol
+**HILO: 3 - IP: 10.0.232.187 - FF: 9:59:41 **
+**HILO: 3 - IP: 10.0.17.135 - FI: 9:59:41 **
+*** Hilo: 3 - 10.0.17.135 ***
+Inicio
+Administradores Ingles
+Nombre Maquina
+Error Administradores Ingles
+SO
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.151.1.74 - FF: 9:59:46 **
+**HILO: 2 - IP: 10.151.1.206 - FI: 9:59:46 **
+*** Hilo: 2 - 10.151.1.206 ***
+Inicio
+Antivirus
+****FM: TCSGYE011011
+Administradores Espa¤ol
+SO
+**HILO: 4 - IP: 10.0.144.183 - FF: 9:59:53 **
+**HILO: 4 - IP: 10.22.7.87 - FI: 9:59:53 **
+*** Hilo: 4 - 10.22.7.87 ***
+Inicio
+****FM: ECBPPRCL6
+Nombre Maquina
+SO
+Antivirus
+****FM: ECUIO1976761
+Error Administradores Ingles
+Administradores Ingles
+Administradores Espa¤ol
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.22.7.87 - FF: 10:00:02 **
+**HILO: 4 - IP: 10.0.5.89 - FI: 10:00:02 **
+*** Hilo: 4 - 10.0.5.89 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 4 - IP: 10.0.5.89 - FF: 10:00:02 **
+**HILO: 4 - IP: 10.0.232.156 - FI: 10:00:02 **
+*** Hilo: 4 - 10.0.232.156 ***
+Inicio
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.151.1.206 - FF: 10:00:02 **
+**HILO: 2 - IP: 10.0.2.158 - FI: 10:00:02 **
+*** Hilo: 2 - 10.0.2.158 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 4 - IP: 10.0.232.156 - FF: 10:00:03 **
+**HILO: 4 - IP: 10.0.5.55 - FI: 10:00:03 **
+*** Hilo: 4 - 10.0.5.55 ***
+Inicio
+**HILO: 5 - IP: 10.1.6.93 - FF: 10:00:03 **
+**HILO: 5 - IP: 10.0.97.121 - FI: 10:00:03 **
+*** Hilo: 5 - 10.0.97.121 ***
+Inicio
+SO
+****FM: ECBPPRCL3
+Nombre Maquina
+SO
+SO
+Antivirus
+****FM: ECUIO1977161
+Antivirus
+****FM: TCSUIO0011025
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.0.2.158 - FF: 10:00:09 **
+**HILO: 2 - IP: 10.0.2.161 - FI: 10:00:09 **
+*** Hilo: 2 - 10.0.2.161 ***
+Inicio
+SO
+****FM: ECBPPRCL3
+ERROR: Antivirus
+**HILO: 1 - IP: 10.0.150.230 - FF: 10:00:13 **
+**HILO: 1 - IP: 10.0.85.113 - FI: 10:00:13 **
+*** Hilo: 1 - 10.0.85.113 ***
+Inicio
+Error Administradores Ingles
+Nombre Maquina
+Error Administradores Ingles
+SO
+Administradores Espa¤ol
+****FM: BT320764
+**HILO: 1 - IP: 10.0.85.113 - FF: 10:00:16 **
+**HILO: 1 - IP: 10.0.183.120 - FI: 10:00:16 **
+*** Hilo: 1 - 10.0.183.120 ***
+Inicio
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.0.5.55 - FF: 10:00:17 **
+**HILO: 4 - IP: 10.0.40.141 - FI: 10:00:17 **
+*** Hilo: 4 - 10.0.40.141 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 4 - IP: 10.0.40.141 - FF: 10:00:17 **
+**HILO: 4 - IP: 10.0.10.194 - FI: 10:00:17 **
+*** Hilo: 4 - 10.0.10.194 ***
+Inicio
+Administradores Ingles
+**HILO: 5 - IP: 10.0.97.121 - FF: 10:00:18 **
+**HILO: 5 - IP: 10.0.97.74 - FI: 10:00:18 **
+*** Hilo: 5 - 10.0.97.74 ***
+Inicio
+Nombre Maquina
+Nombre Maquina
+SO
+Antivirus
+****FM: TCSUIO0011063
+SO
+****FM: BT323327
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.0.2.161 - FF: 10:00:21 **
+**HILO: 2 - IP: 10.151.1.205 - FI: 10:00:21 **
+*** Hilo: 2 - 10.151.1.205 ***
+Inicio
+Nombre Maquina
+ERROR: SO
+SO
+Error Administradores Ingles
+Error Administradores Ingles
+Administradores Espa¤ol
+Administradores Espa¤ol
+**HILO: 1 - IP: 10.0.183.120 - FF: 10:00:24 **
+**HILO: 1 - IP: 10.220.3.123 - FI: 10:00:24 **
+*** Hilo: 1 - 10.220.3.123 ***
+Inicio
+SO
+****FM: ECUIO197770
+****FM: ECBPPRCL7
+**HILO: 5 - IP: 10.0.97.74 - FF: 10:00:25 **
+**HILO: 5 - IP: 10.0.97.79 - FI: 10:00:25 **
+*** Hilo: 5 - 10.0.97.79 ***
+Inicio
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.151.1.205 - FF: 10:00:29 **
+**HILO: 2 - IP: 10.151.1.146 - FI: 10:00:29 **
+*** Hilo: 2 - 10.151.1.146 ***
+Inicio
+Error Administradores Ingles
+Nombre Maquina
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.0.10.194 - FF: 10:00:34 **
+**HILO: 4 - IP: 10.22.2.21 - FI: 10:00:34 **
+*** Hilo: 4 - 10.22.2.21 ***
+Inicio
+SO
+SO
+Nombre Maquina
+SO
+****FM: ECBPPRCL21
+Antivirus
+****FM: ECUIO1977710
+****FM: TCSUIO0011067
+Administradores Ingles
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.22.2.21 - FF: 10:00:43 **
+**HILO: 4 - IP: 10.0.5.126 - FI: 10:00:43 **
+*** Hilo: 4 - 10.0.5.126 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 4 - IP: 10.0.5.126 - FF: 10:00:44 **
+**HILO: 4 - IP: 10.0.218.44 - FI: 10:00:44 **
+*** Hilo: 4 - 10.0.218.44 ***
+Inicio
+ERROR: Antivirus
+**HILO: 3 - IP: 10.0.17.135 - FF: 10:00:44 **
+**HILO: 3 - IP: 10.0.84.54 - FI: 10:00:44 **
+*** Hilo: 3 - 10.0.84.54 ***
+Inicio
+Nombre Maquina
+SO
+Antivirus
+****FM: ECUIO1978030
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.151.1.146 - FF: 10:00:46 **
+**HILO: 2 - IP: 10.151.1.148 - FI: 10:00:46 **
+*** Hilo: 2 - 10.151.1.148 ***
+Inicio
+Nombre Maquina
+Error Administradores Ingles
+SO
+SO
+Antivirus
+****FM: ECUIO040106
+SO
+Administradores Espa¤ol
+****FM: ECBPPRCL21
+**HILO: 5 - IP: 10.0.97.79 - FF: 10:00:51 **
+**HILO: 5 - IP: 10.0.85.15 - FI: 10:00:51 **
+*** Hilo: 5 - 10.0.85.15 ***
+Inicio
+Nombre Maquina
+SO
+****FM: TCSUIO0011105
+**HILO: 5 - IP: 10.0.85.15 - FF: 10:00:52 **
+**HILO: 5 - IP: 10.0.65.55 - FI: 10:00:52 **
+*** Hilo: 5 - 10.0.65.55 ***
+Inicio
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.0.218.44 - FF: 10:00:53 **
+**HILO: 4 - IP: 10.22.1.19 - FI: 10:00:53 **
+*** Hilo: 4 - 10.22.1.19 ***
+Inicio
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 2 - IP: 10.151.1.148 - FF: 10:00:54 **
+**HILO: 2 - IP: 10.0.92.60 - FI: 10:00:54 **
+*** Hilo: 2 - 10.0.92.60 ***
+Inicio
+Nombre Maquina
+Error Administradores Ingles
+Nombre Maquina
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+SO
+ERROR: Antivirus
+**HILO: 2 - IP: 10.0.92.60 - FF: 10:00:55 **
+**HILO: 2 - IP: 10.11.0.227 - FI: 10:00:55 **
+*** Hilo: 2 - 10.11.0.227 ***
+Inicio
+SO
+Administradores Espa¤ol
+****FM: TCSUIO0011184
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 2 - IP: 10.11.0.227 - FF: 10:00:56 **
+**HILO: 2 - IP: 10.1.6.184 - FI: 10:00:56 **
+*** Hilo: 2 - 10.1.6.184 ***
+Inicio
+****FM: CAMBIOPW
+Antivirus
+****FM: ECUIO197805
+**HILO: 3 - IP: 10.0.84.54 - FF: 10:00:57 **
+**HILO: 3 - IP: 10.0.91.56 - FI: 10:00:57 **
+*** Hilo: 3 - 10.0.91.56 ***
+Inicio
+Nombre Maquina
+SO
+Nombre Maquina
+SO
+Antivirus
+Error Administradores Ingles
+****FM: ECGYE011448
+****FM: ECUIO040036
+Administradores Espa¤ol
+Error Administradores Ingles
+**HILO: 5 - IP: 10.0.65.55 - FF: 10:01:05 **
+**HILO: 5 - IP: 10.0.176.119 - FI: 10:01:05 **
+*** Hilo: 5 - 10.0.176.119 ***
+Inicio
+Administradores Espa¤ol
+SO
+**HILO: 4 - IP: 10.22.1.19 - FF: 10:01:08 **
+**HILO: 4 - IP: 10.7.19.75 - FI: 10:01:08 **
+*** Hilo: 4 - 10.7.19.75 ***
+Inicio
+****FM: TCSUIO001241
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+Error Administradores Ingles
+ERROR: Antivirus
+**HILO: 4 - IP: 10.7.19.75 - FF: 10:01:10 **
+**HILO: 4 - IP: 10.22.7.94 - FI: 10:01:10 **
+*** Hilo: 4 - 10.22.7.94 ***
+Inicio
+Error Administradores Ingles
+Administradores Espa¤ol
+Nombre Maquina
+**HILO: 3 - IP: 10.0.91.56 - FF: 10:01:13 **
+**HILO: 3 - IP: 10.0.85.122 - FI: 10:01:13 **
+*** Hilo: 3 - 10.0.85.122 ***
+Inicio
+Error Administradores Ingles
+Administradores Espa¤ol
+SO
+Antivirus
+****FM: ECUIO1978822
+Nombre Maquina
+SO
+**HILO: 2 - IP: 10.1.6.184 - FF: 10:01:16 **
+**HILO: 2 - IP: 10.1.6.169 - FI: 10:01:16 **
+*** Hilo: 2 - 10.1.6.169 ***
+Inicio
+Error Administradores Ingles
+Nombre Maquina
+Error Administradores Ingles
+SO
+Administradores Espa¤ol
+Administradores Espa¤ol
+Antivirus
+****FM: ECGYE011180
+****FM: ECUIO040200
+**HILO: 3 - IP: 10.0.85.122 - FF: 10:01:21 **
+**HILO: 3 - IP: 10.14.1.147 - FI: 10:01:21 **
+*** Hilo: 3 - 10.14.1.147 ***
+Inicio
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.176.119 - FF: 10:01:22 **
+**HILO: 5 - IP: 10.0.97.129 - FI: 10:01:22 **
+*** Hilo: 5 - 10.0.97.129 ***
+Inicio
+**HILO: 4 - IP: 10.22.7.94 - FF: 10:01:22 **
+**HILO: 4 - IP: 10.0.218.72 - FI: 10:01:22 **
+*** Hilo: 4 - 10.0.218.72 ***
+Inicio
+Nombre Maquina
+Nombre Maquina
+Nombre Maquina
+SO
+SO
+SO
+Antivirus
+Antivirus
+****FM: TCSUIO001159
+****FM: ECUIO074009
+Error Administradores Ingles
+Antivirus
+****FM: ECUIO197994
+Administradores Espa¤ol
+**HILO: 1 - IP: 10.220.3.123 - FF: 10:01:29 **
+**HILO: 1 - IP: 10.4.0.184 - FI: 10:01:29 **
+*** Hilo: 1 - 10.4.0.184 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 1 - IP: 10.4.0.184 - FF: 10:01:30 **
+**HILO: 1 - IP: 10.0.233.114 - FI: 10:01:30 **
+*** Hilo: 1 - 10.0.233.114 ***
+Inicio
+**HILO: 2 - IP: 10.1.6.169 - FF: 10:01:30 **
+**HILO: 2 - IP: 10.1.7.79 - FI: 10:01:30 **
+*** Hilo: 2 - 10.1.7.79 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+Error Administradores Ingles
+ERROR: Antivirus
+**HILO: 1 - IP: 10.0.233.114 - FF: 10:01:31 **
+**HILO: 1 - IP: 10.207.60.29 - FI: 10:01:31 **
+*** Hilo: 1 - 10.207.60.29 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 2 - IP: 10.1.7.79 - FF: 10:01:32 **
+**HILO: 2 - IP: 10.1.7.106 - FI: 10:01:32 **
+*** Hilo: 2 - 10.1.7.106 ***
+Inicio
+Error Administradores Ingles
+Administradores Espa¤ol
+Nombre Maquina
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.97.129 - FF: 10:01:34 **
+**HILO: 5 - IP: 10.0.176.136 - FI: 10:01:34 **
+*** Hilo: 5 - 10.0.176.136 ***
+Inicio
+SO
+**HILO: 4 - IP: 10.0.218.72 - FF: 10:01:35 **
+**HILO: 4 - IP: 10.0.94.145 - FI: 10:01:35 **
+*** Hilo: 4 - 10.0.94.145 ***
+Inicio
+Antivirus
+****FM: ECGYE011421
+Nombre Maquina
+SO
+SO
+****FM: TCSUIO001335
+Error Administradores Ingles
+Antivirus
+****FM: ECUIO197M008
+Administradores Espa¤ol
+Error Administradores Ingles
+**HILO: 3 - IP: 10.14.1.147 - FF: 10:01:42 **
+**HILO: 3 - IP: 10.0.31.87 - FI: 10:01:42 **
+*** Hilo: 3 - 10.0.31.87 ***
+Inicio
+Administradores Espa¤ol
+**HILO: 2 - IP: 10.1.7.106 - FF: 10:01:44 **
+**HILO: 2 - IP: 10.1.6.244 - FI: 10:01:44 **
+*** Hilo: 2 - 10.1.6.244 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 2 - IP: 10.1.6.244 - FF: 10:01:45 **
+**HILO: 2 - IP: 10.1.55.84 - FI: 10:01:45 **
+*** Hilo: 2 - 10.1.55.84 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+Error Administradores Ingles
+ERROR: Antivirus
+**HILO: 2 - IP: 10.1.55.84 - FF: 10:01:47 **
+**HILO: 2 - IP: 10.1.6.69 - FI: 10:01:47 **
+*** Hilo: 2 - 10.1.6.69 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 2 - IP: 10.1.6.69 - FF: 10:01:48 **
+**HILO: 2 - IP: 10.1.23.77 - FI: 10:01:48 **
+*** Hilo: 2 - 10.1.23.77 ***
+Inicio
+Administradores Espa¤ol
+Error Administradores Ingles
+**HILO: 5 - IP: 10.0.176.136 - FF: 10:01:50 **
+**HILO: 5 - IP: 10.0.183.50 - FI: 10:01:50 **
+*** Hilo: 5 - 10.0.183.50 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 5 - IP: 10.0.183.50 - FF: 10:01:50 **
+**HILO: 5 - IP: 10.0.64.204 - FI: 10:01:50 **
+*** Hilo: 5 - 10.0.64.204 ***
+Inicio
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.0.94.145 - FF: 10:01:52 **
+**HILO: 4 - IP: 10.0.233.161 - FI: 10:01:52 **
+*** Hilo: 4 - 10.0.233.161 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+SO
+Antivirus
+****FM: ECUIO198100
+Nombre Maquina
+SO
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.0.233.161 - FF: 10:01:58 **
+**HILO: 4 - IP: 10.0.126.67 - FI: 10:01:58 **
+*** Hilo: 4 - 10.0.126.67 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+****FM: TCSUIO00127
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.64.204 - FF: 10:02:11 **
+**HILO: 5 - IP: 10.0.148.173 - FI: 10:02:11 **
+*** Hilo: 5 - 10.0.148.173 ***
+Inicio
+Nombre Maquina
+SO
+****FM: TCSUIO001489
+ERROR: SO
+ERROR: Nombre Maquina. U: M: 
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.148.173 - FF: 10:02:17 **
+**HILO: 5 - IP: 10.0.150.57 - FI: 10:02:17 **
+*** Hilo: 5 - 10.0.150.57 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+SO
+Antivirus
+****FM: TCSUIO001578
+ERROR: SO
+Error Administradores Ingles
+Administradores Espa¤ol
+ERROR: Antivirus
+**HILO: 1 - IP: 10.207.60.29 - FF: 10:02:34 **
+**HILO: 1 - IP: 10.207.60.77 - FI: 10:02:34 **
+*** Hilo: 1 - 10.207.60.77 ***
+Inicio
+**HILO: 5 - IP: 10.0.150.57 - FF: 10:02:35 **
+**HILO: 5 - IP: 10.0.65.229 - FI: 10:02:35 **
+*** Hilo: 5 - 10.0.65.229 ***
+Inicio
+SO
+ERROR: SO
+ERROR: SO
+****FM: TCSUIO001782
+ERROR: Antivirus
+**HILO: 3 - IP: 10.0.31.87 - FF: 10:02:45 **
+**HILO: 3 - IP: 10.14.4.91 - FI: 10:02:45 **
+*** Hilo: 3 - 10.14.4.91 ***
+Inicio
+Nombre Maquina
+SO
+Antivirus
+****FM: ECUIO0750365
+Error Administradores Ingles
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 3 - IP: 10.14.4.91 - FF: 10:02:50 **
+**HILO: 3 - IP: 10.14.4.190 - FI: 10:02:50 **
+*** Hilo: 3 - 10.14.4.190 ***
+Inicio
+Administradores Espa¤ol
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 3 - IP: 10.14.4.190 - FF: 10:02:50 **
+**HILO: 3 - IP: 10.0.85.187 - FI: 10:02:50 **
+*** Hilo: 3 - 10.0.85.187 ***
+Inicio
+**HILO: 5 - IP: 10.0.65.229 - FF: 10:02:52 **
+**HILO: 5 - IP: 10.0.97.142 - FI: 10:02:52 **
+*** Hilo: 5 - 10.0.97.142 ***
+Inicio
+Nombre Maquina
+SO
+Nombre Maquina
+****FM: ECUIO095132
+**HILO: 3 - IP: 10.0.85.187 - FF: 10:02:55 **
+**HILO: 3 - IP: 10.0.83.94 - FI: 10:02:55 **
+*** Hilo: 3 - 10.0.83.94 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+SO
+****FM: TCSUIO0018012
+Nombre Maquina
+SO
+****FM: ECUIO095137
+ERROR: Antivirus
+**HILO: 4 - IP: 10.0.126.67 - FF: 10:03:01 **
+**HILO: 4 - IP: 10.14.4.131 - FI: 10:03:01 **
+*** Hilo: 4 - 10.14.4.131 ***
+Inicio
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.97.142 - FF: 10:03:04 **
+**HILO: 5 - IP: 10.0.97.131 - FI: 10:03:04 **
+*** Hilo: 5 - 10.0.97.131 ***
+Inicio
+ERROR: Antivirus
+**HILO: 2 - IP: 10.1.23.77 - FF: 10:03:05 **
+**HILO: 2 - IP: 10.1.7.12 - FI: 10:03:05 **
+*** Hilo: 2 - 10.1.7.12 ***
+Inicio
+Nombre Maquina
+SO
+Nombre Maquina
+****FM: TCSUIO0018086
+SO
+Antivirus
+****FM: ECUIO19770351
+Error Administradores Ingles
+Error Administradores Ingles
+Administradores Espa¤ol
+Administradores Espa¤ol
+**HILO: 3 - IP: 10.0.83.94 - FF: 10:03:11 **
+**HILO: 3 - IP: 10.0.83.122 - FI: 10:03:11 **
+*** Hilo: 3 - 10.0.83.122 ***
+Inicio
+Error Administradores Ingles
+**HILO: 5 - IP: 10.0.97.131 - FF: 10:03:11 **
+**HILO: 5 - IP: 10.0.148.62 - FI: 10:03:11 **
+*** Hilo: 5 - 10.0.148.62 ***
+Inicio
+Nombre Maquina
+SO
+Antivirus
+Administradores Espa¤ol
+****FM: TCSUIO200001
+Nombre Maquina
+**HILO: 2 - IP: 10.1.7.12 - FF: 10:03:13 **
+**HILO: 2 - IP: 10.1.1.2 - FI: 10:03:13 **
+*** Hilo: 2 - 10.1.1.2 ***
+Inicio
+SO
+Nombre Maquina
+SO
+Antivirus
+****FM: ECGYE471054
+****FM: ECUIO095164
+ERROR: SO
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.148.62 - FF: 10:03:17 **
+**HILO: 5 - IP: 10.0.136.69 - FI: 10:03:17 **
+*** Hilo: 5 - 10.0.136.69 ***
+Inicio
+Nombre Maquina
+SO
+Error Administradores Ingles
+Administradores Espa¤ol
+Antivirus
+**HILO: 2 - IP: 10.1.1.2 - FF: 10:03:20 **
+**HILO: 2 - IP: 10.21.22.138 - FI: 10:03:20 **
+*** Hilo: 2 - 10.21.22.138 ***
+Inicio
+****FM: TCSUIO200012
+ERROR: Nombre Maquina. U: M: 
+Nombre Maquina
+Error Administradores Ingles
+Administradores Espa¤ol
+SO
+**HILO: 3 - IP: 10.0.83.122 - FF: 10:03:24 **
+**HILO: 3 - IP: 10.0.85.105 - FI: 10:03:24 **
+*** Hilo: 3 - 10.0.85.105 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 3 - IP: 10.0.85.105 - FF: 10:03:25 **
+**HILO: 3 - IP: 10.0.84.112 - FI: 10:03:25 **
+*** Hilo: 3 - 10.0.84.112 ***
+Inicio
+Antivirus
+****FM: ECGYE471078
+Error Administradores Ingles
+Nombre Maquina
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.136.69 - FF: 10:03:27 **
+**HILO: 5 - IP: 10.0.148.109 - FI: 10:03:27 **
+*** Hilo: 5 - 10.0.148.109 ***
+Inicio
+Nombre Maquina
+SO
+****FM: TCSUIO200004
+SO
+****FM: ECUIO095195
+Error Administradores Ingles
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.148.109 - FF: 10:03:33 **
+**HILO: 5 - IP: 10.0.136.81 - FI: 10:03:33 **
+*** Hilo: 5 - 10.0.136.81 ***
+Inicio
+Nombre Maquina
+Administradores Espa¤ol
+Error Administradores Ingles
+ERROR: Antivirus
+**HILO: 1 - IP: 10.207.60.77 - FF: 10:03:37 **
+**HILO: 1 - IP: 10.0.112.40 - FI: 10:03:37 **
+*** Hilo: 1 - 10.0.112.40 ***
+Inicio
+SO
+**HILO: 2 - IP: 10.21.22.138 - FF: 10:03:38 **
+**HILO: 2 - IP: 10.21.25.131 - FI: 10:03:38 **
+*** Hilo: 2 - 10.21.25.131 ***
+Inicio
+Nombre Maquina
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 2 - IP: 10.21.25.131 - FF: 10:03:38 **
+**HILO: 2 - IP: 10.21.25.143 - FI: 10:03:38 **
+*** Hilo: 2 - 10.21.25.143 ***
+Inicio
+Antivirus
+SO
+****FM: TCSUIO200019
+Antivirus
+Administradores Espa¤ol
+****FM: CRUIO24210523
+**HILO: 3 - IP: 10.0.84.112 - FF: 10:03:41 **
+**HILO: 3 - IP: 10.0.84.183 - FI: 10:03:41 **
+*** Hilo: 3 - 10.0.84.183 ***
+Inicio
+Nombre Maquina
+SO
+ERROR: SO
+Nombre Maquina
+Antivirus
+Error Administradores Ingles
+****FM: ECLOH471043
+SO
+Error Administradores Ingles
+****FM: ECUIO095247
+Administradores Espa¤ol
+Administradores Espa¤ol
+**HILO: 1 - IP: 10.0.112.40 - FF: 10:03:48 **
+**HILO: 1 - IP: 10.207.68.104 - FI: 10:03:48 **
+*** Hilo: 1 - 10.207.68.104 ***
+Inicio
+**HILO: 5 - IP: 10.0.136.81 - FF: 10:03:49 **
+**HILO: 5 - IP: 10.0.136.139 - FI: 10:03:49 **
+*** Hilo: 5 - 10.0.136.139 ***
+Inicio
+Nombre Maquina
+SO
+Error Administradores Ingles
+Error Administradores Ingles
+Administradores Espa¤ol
+****FM: TCSUIO200073
+**HILO: 3 - IP: 10.0.84.183 - FF: 10:03:57 **
+**HILO: 3 - IP: 10.0.91.45 - FI: 10:03:57 **
+*** Hilo: 3 - 10.0.91.45 ***
+Inicio
+Administradores Espa¤ol
+**HILO: 2 - IP: 10.21.25.143 - FF: 10:04:00 **
+**HILO: 2 - IP: 10.10.19.78 - FI: 10:04:00 **
+*** Hilo: 2 - 10.10.19.78 ***
+Inicio
+Nombre Maquina
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 2 - IP: 10.10.19.78 - FF: 10:04:01 **
+**HILO: 2 - IP: 10.21.27.96 - FI: 10:04:01 **
+*** Hilo: 2 - 10.21.27.96 ***
+Inicio
+SO
+****FM: ECUIO095283
+Error Administradores Ingles
+SO
+ERROR: Antivirus
+**HILO: 4 - IP: 10.14.4.131 - FF: 10:04:04 **
+**HILO: 4 - IP: 10.0.76.110 - FI: 10:04:04 **
+*** Hilo: 4 - 10.0.76.110 ***
+Inicio
+Administradores Espa¤ol
+Antivirus
+****FM: ECQVD471300
+**HILO: 5 - IP: 10.0.136.139 - FF: 10:04:06 **
+**HILO: 5 - IP: 10.0.233.81 - FI: 10:04:06 **
+*** Hilo: 5 - 10.0.233.81 ***
+Inicio
+Nombre Maquina
+SO
+ERROR: Nombre Maquina. U: M: 
+Antivirus
+****FM: ECUIO255169
+Error Administradores Ingles
+Error Administradores Ingles
+Administradores Espa¤ol
+Administradores Espa¤ol
+**HILO: 2 - IP: 10.21.27.96 - FF: 10:04:12 **
+**HILO: 2 - IP: 10.6.21.104 - FI: 10:04:12 **
+*** Hilo: 2 - 10.6.21.104 ***
+Inicio
+**HILO: 3 - IP: 10.0.91.45 - FF: 10:04:12 **
+**HILO: 3 - IP: 10.0.85.244 - FI: 10:04:12 **
+*** Hilo: 3 - 10.0.85.244 ***
+Inicio
+Nombre Maquina
+SO
+Antivirus
+****FM: ECUIO095428
+**HILO: 3 - IP: 10.0.85.244 - FF: 10:04:13 **
+**HILO: 3 - IP: 10.0.85.47 - FI: 10:04:13 **
+*** Hilo: 3 - 10.0.85.47 ***
+Inicio
+Error Administradores Ingles
+Administradores Espa¤ol
+SO
+**HILO: 4 - IP: 10.0.76.110 - FF: 10:04:18 **
+**HILO: 4 - IP: 10.14.20.134 - FI: 10:04:18 **
+*** Hilo: 4 - 10.14.20.134 ***
+Inicio
+Nombre Maquina
+Nombre Maquina
+****FM: ECUIO095429
+**HILO: 3 - IP: 10.0.85.47 - FF: 10:04:19 **
+**HILO: 3 - IP: 10.0.85.62 - FI: 10:04:19 **
+*** Hilo: 3 - 10.0.85.62 ***
+Inicio
+SO
+Nombre Maquina
+****FM: ECUIO2232486
+SO
+****FM: ECUIO095621
+**HILO: 3 - IP: 10.0.85.62 - FF: 10:04:21 **
+**HILO: 3 - IP: 10.0.83.62 - FI: 10:04:21 **
+*** Hilo: 3 - 10.0.83.62 ***
+Inicio
+SO
+Nombre Maquina
+SO
+****FM: ECUIO095LM5
+Antivirus
+****FM: PYSTO014005
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.14.20.134 - FF: 10:04:30 **
+**HILO: 4 - IP: 10.14.15.70 - FI: 10:04:30 **
+*** Hilo: 4 - 10.14.15.70 ***
+Inicio
+ERROR: SO
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 4 - IP: 10.14.15.70 - FF: 10:04:31 **
+**HILO: 4 - IP: 10.0.233.164 - FI: 10:04:31 **
+*** Hilo: 4 - 10.0.233.164 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+Nombre Maquina
+SO
+Antivirus
+Error Administradores Ingles
+****FM: ECUIO200673
+Administradores Espa¤ol
+Error Administradores Ingles
+**HILO: 3 - IP: 10.0.83.62 - FF: 10:04:36 **
+**HILO: 3 - IP: 10.0.83.127 - FI: 10:04:36 **
+*** Hilo: 3 - 10.0.83.127 ***
+Inicio
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.0.233.164 - FF: 10:04:37 **
+**HILO: 4 - IP: 10.21.30.77 - FI: 10:04:37 **
+*** Hilo: 4 - 10.21.30.77 ***
+Inicio
+Nombre Maquina
+SO
+Administradores Espa¤ol
+****FM: ECUIO096340
+Nombre Maquina
+**HILO: 2 - IP: 10.6.21.104 - FF: 10:04:43 **
+_____Fin Escaneo Hilo: 2 - FF: 10:04:43
+SO
+Antivirus
+****FM: ECUIO471025
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 3 - IP: 10.0.83.127 - FF: 10:04:49 **
+**HILO: 3 - IP: 10.0.91.63 - FI: 10:04:49 **
+*** Hilo: 3 - 10.0.91.63 ***
+Inicio
+ERROR: Antivirus
+**HILO: 1 - IP: 10.207.68.104 - FF: 10:04:51 **
+**HILO: 1 - IP: 10.207.60.72 - FI: 10:04:51 **
+*** Hilo: 1 - 10.207.60.72 ***
+Inicio
+Nombre Maquina
+SO
+Error Administradores Ingles
+****FM: ECUIO095780
+ERROR: SO
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.21.30.77 - FF: 10:04:59 **
+**HILO: 4 - IP: 10.0.176.156 - FI: 10:04:59 **
+*** Hilo: 4 - 10.0.176.156 ***
+Inicio
+Nombre Maquina
+Error Administradores Ingles
+SO
+Antivirus
+****FM: ECUIO556475
+Administradores Espa¤ol
+**HILO: 3 - IP: 10.0.91.63 - FF: 10:05:05 **
+**HILO: 3 - IP: 10.0.91.135 - FI: 10:05:05 **
+*** Hilo: 3 - 10.0.91.135 ***
+Inicio
+Nombre Maquina
+SO
+Error Administradores Ingles
+Administradores Espa¤ol
+Antivirus
+****FM: ECUIO096351
+**HILO: 4 - IP: 10.0.176.156 - FF: 10:05:08 **
+**HILO: 4 - IP: 10.0.176.54 - FI: 10:05:08 **
+*** Hilo: 4 - 10.0.176.54 ***
+Inicio
+Nombre Maquina
+ERROR: Nombre Maquina. U: M: 
+SO
+Error Administradores Ingles
+Antivirus
+Administradores Espa¤ol
+****FM: ECUIO556486
+**HILO: 3 - IP: 10.0.91.135 - FF: 10:05:17 **
+**HILO: 3 - IP: 10.0.83.150 - FI: 10:05:17 **
+*** Hilo: 3 - 10.0.83.150 ***
+Inicio
+Nombre Maquina
+SO
+****FM: ECUIO096543
+ERROR: Antivirus
+**HILO: 5 - IP: 10.0.233.81 - FF: 10:05:23 **
+**HILO: 5 - IP: 10.0.136.154 - FI: 10:05:23 **
+*** Hilo: 5 - 10.0.136.154 ***
+Inicio
+Administradores Ingles
+SO
+****FM: TCSUIO200093
+Error Administradores Espa¤ol
+**HILO: 4 - IP: 10.0.176.54 - FF: 10:05:25 **
+**HILO: 4 - IP: 10.0.177.31 - FI: 10:05:25 **
+*** Hilo: 4 - 10.0.177.31 ***
+Inicio
+Nombre Maquina
+SO
+Antivirus
+****FM: ECUIO556483
+Error Administradores Ingles
+Administradores Espa¤ol
+Error Administradores Ingles
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 3 - IP: 10.0.83.150 - FF: 10:05:30 **
+**HILO: 3 - IP: 10.0.83.17 - FI: 10:05:30 **
+*** Hilo: 3 - 10.0.83.17 ***
+Inicio
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.0.177.31 - FF: 10:05:31 **
+**HILO: 4 - IP: 10.0.83.137 - FI: 10:05:31 **
+*** Hilo: 4 - 10.0.83.137 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+**HILO: 5 - IP: 10.0.136.154 - FF: 10:05:31 **
+**HILO: 5 - IP: 10.0.136.198 - FI: 10:05:31 **
+*** Hilo: 5 - 10.0.136.198 ***
+Inicio
+ERROR: SO
+ERROR: Antivirus
+**HILO: 4 - IP: 10.0.83.137 - FF: 10:05:31 **
+**HILO: 4 - IP: 10.0.177.15 - FI: 10:05:31 **
+*** Hilo: 4 - 10.0.177.15 ***
+Inicio
+Nombre Maquina
+Nombre Maquina
+SO
+SO
+****FM: ECUIO556627
+Antivirus
+****FM: TCSUIO200207
+ERROR: SO
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.0.177.15 - FF: 10:05:37 **
+**HILO: 4 - IP: 10.0.69.76 - FI: 10:05:37 **
+*** Hilo: 4 - 10.0.69.76 ***
+Inicio
+Nombre Maquina
+SO
+Error Administradores Ingles
+Administradores Espa¤ol
+Antivirus
+**HILO: 5 - IP: 10.0.136.198 - FF: 10:05:40 **
+**HILO: 5 - IP: 10.0.136.30 - FI: 10:05:40 **
+*** Hilo: 5 - 10.0.136.30 ***
+Inicio
+****FM: ECUIO556652
+SO
+****FM: TCSUIO200221
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.0.69.76 - FF: 10:05:45 **
+**HILO: 4 - IP: 10.0.176.88 - FI: 10:05:45 **
+*** Hilo: 4 - 10.0.176.88 ***
+Inicio
+Error Administradores Ingles
+Nombre Maquina
+SO
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.136.30 - FF: 10:05:47 **
+**HILO: 5 - IP: 10.0.137.64 - FI: 10:05:47 **
+*** Hilo: 5 - 10.0.137.64 ***
+Inicio
+Antivirus
+****FM: ECUIO0121689
+Nombre Maquina
+SO
+****FM: TCSUIO200229
+ERROR: Nombre Maquina. U: M: 
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.0.176.88 - FF: 10:05:53 **
+**HILO: 4 - IP: 10.0.91.28 - FI: 10:05:53 **
+*** Hilo: 4 - 10.0.91.28 ***
+Inicio
+Nombre Maquina
+ERROR: Antivirus
+**HILO: 1 - IP: 10.207.60.72 - FF: 10:05:54 **
+**HILO: 1 - IP: 10.207.60.48 - FI: 10:05:54 **
+*** Hilo: 1 - 10.207.60.48 ***
+Inicio
+SO
+****FM: ECUIOWES041
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.137.64 - FF: 10:05:56 **
+**HILO: 5 - IP: 10.0.137.63 - FI: 10:05:56 **
+*** Hilo: 5 - 10.0.137.63 ***
+Inicio
+Nombre Maquina
+SO
+****FM: TCSUIO200230
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.0.91.28 - FF: 10:06:01 **
+**HILO: 4 - IP: 10.0.91.110 - FI: 10:06:01 **
+*** Hilo: 4 - 10.0.91.110 ***
+Inicio
+Error Administradores Ingles
+Administradores Espa¤ol
+Nombre Maquina
+**HILO: 5 - IP: 10.0.137.63 - FF: 10:06:05 **
+**HILO: 5 - IP: 10.0.136.38 - FI: 10:06:05 **
+*** Hilo: 5 - 10.0.136.38 ***
+Inicio
+SO
+SO
+Antivirus
+****FM: ECUIOWES020
+****FM: TCSUIO200223
+Error Administradores Ingles
+Error Administradores Ingles
+Administradores Espa¤ol
+Administradores Espa¤ol
+**HILO: 4 - IP: 10.0.91.110 - FF: 10:06:11 **
+**HILO: 4 - IP: 10.0.183.168 - FI: 10:06:11 **
+*** Hilo: 4 - 10.0.183.168 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+**HILO: 5 - IP: 10.0.136.38 - FF: 10:06:11 **
+**HILO: 5 - IP: 10.0.136.56 - FI: 10:06:11 **
+*** Hilo: 5 - 10.0.136.56 ***
+Inicio
+ERROR: SO
+ERROR: Antivirus
+**HILO: 4 - IP: 10.0.183.168 - FF: 10:06:11 **
+**HILO: 4 - IP: 10.1.168.245 - FI: 10:06:11 **
+*** Hilo: 4 - 10.1.168.245 ***
+Inicio
+Nombre Maquina
+SO
+ERROR: SO
+****FM: TCSUIO200268
+ERROR: Nombre Maquina. U: M: 
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.136.56 - FF: 10:06:16 **
+**HILO: 5 - IP: 10.0.136.57 - FI: 10:06:16 **
+*** Hilo: 5 - 10.0.136.57 ***
+Inicio
+Nombre Maquina
+SO
+****FM: TCSUIO200302
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.136.57 - FF: 10:06:29 **
+**HILO: 5 - IP: 10.0.137.108 - FI: 10:06:29 **
+*** Hilo: 5 - 10.0.137.108 ***
+Inicio
+Nombre Maquina
+SO
+****FM: TCSUIO200294
+ERROR: Nombre Maquina. U: M: 
+ERROR: Antivirus
+**HILO: 3 - IP: 10.0.83.17 - FF: 10:06:33 **
+**HILO: 3 - IP: 10.0.83.132 - FI: 10:06:33 **
+*** Hilo: 3 - 10.0.83.132 ***
+Inicio
+Nombre Maquina
+Error Administradores Ingles
+SO
+ERROR: SO
+****FM: ECUIO096615
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.137.108 - FF: 10:06:39 **
+**HILO: 5 - IP: 10.0.136.45 - FI: 10:06:39 **
+*** Hilo: 5 - 10.0.136.45 ***
+Inicio
+Nombre Maquina
+SO
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 3 - IP: 10.0.83.132 - FF: 10:06:47 **
+**HILO: 3 - IP: 10.0.85.44 - FI: 10:06:47 **
+*** Hilo: 3 - 10.0.85.44 ***
+Inicio
+Antivirus
+Nombre Maquina
+SO
+****FM: TCSUIO200316
+****FM: ECUIO096621
+**HILO: 3 - IP: 10.0.85.44 - FF: 10:06:51 **
+**HILO: 3 - IP: 10.0.85.36 - FI: 10:06:51 **
+*** Hilo: 3 - 10.0.85.36 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 3 - IP: 10.0.85.36 - FF: 10:06:51 **
+**HILO: 3 - IP: 10.0.85.192 - FI: 10:06:51 **
+*** Hilo: 3 - 10.0.85.192 ***
+Inicio
+Nombre Maquina
+SO
+****FM: ECUIO096648
+**HILO: 3 - IP: 10.0.85.192 - FF: 10:06:53 **
+**HILO: 3 - IP: 10.0.85.119 - FI: 10:06:53 **
+*** Hilo: 3 - 10.0.85.119 ***
+Inicio
+ERROR: SO
+Nombre Maquina
+SO
+Antivirus
+****FM: ECUIO096646
+**HILO: 3 - IP: 10.0.85.119 - FF: 10:06:54 **
+**HILO: 3 - IP: 10.0.83.135 - FI: 10:06:54 **
+*** Hilo: 3 - 10.0.83.135 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 3 - IP: 10.0.83.135 - FF: 10:06:55 **
+**HILO: 3 - IP: 10.0.85.249 - FI: 10:06:55 **
+*** Hilo: 3 - 10.0.85.249 ***
+Inicio
+Nombre Maquina
+SO
+****FM: ECUIO096655
+**HILO: 3 - IP: 10.0.85.249 - FF: 10:06:56 **
+**HILO: 3 - IP: 10.0.85.148 - FI: 10:06:56 **
+*** Hilo: 3 - 10.0.85.148 ***
+Inicio
+Error Administradores Ingles
+Administradores Espa¤ol
+Nombre Maquina
+**HILO: 5 - IP: 10.0.136.45 - FF: 10:06:56 **
+**HILO: 5 - IP: 10.0.137.29 - FI: 10:06:56 **
+*** Hilo: 5 - 10.0.137.29 ***
+Inicio
+SO
+****FM: ECUIO096671
+**HILO: 3 - IP: 10.0.85.148 - FF: 10:06:57 **
+_____Fin Escaneo Hilo: 3 - FF: 10:06:57
+ERROR: Antivirus
+**HILO: 1 - IP: 10.207.60.48 - FF: 10:06:57 **
+**HILO: 1 - IP: 10.1.12.72 - FI: 10:06:57 **
+*** Hilo: 1 - 10.1.12.72 ***
+Inicio
+Nombre Maquina
+SO
+Antivirus
+****FM: TCSUIO200360
+Nombre Maquina
+SO
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.137.29 - FF: 10:07:06 **
+**HILO: 5 - IP: 10.0.136.250 - FI: 10:07:06 **
+*** Hilo: 5 - 10.0.136.250 ***
+Inicio
+Nombre Maquina
+SO
+****FM: TCSUIO200400
+Antivirus
+****FM: COGYE011026
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.136.250 - FF: 10:07:11 **
+**HILO: 5 - IP: 10.0.233.13 - FI: 10:07:11 **
+*** Hilo: 5 - 10.0.233.13 ***
+Inicio
+Nombre Maquina
+SO
+ERROR: Antivirus
+**HILO: 4 - IP: 10.1.168.245 - FF: 10:07:14 **
+**HILO: 4 - IP: 10.0.88.245 - FI: 10:07:14 **
+*** Hilo: 4 - 10.0.88.245 ***
+Inicio
+Antivirus
+****FM: TCSUIO200445
+Error Administradores Ingles
+Administradores Espa¤ol
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.233.13 - FF: 10:07:21 **
+**HILO: 5 - IP: 10.0.137.176 - FI: 10:07:21 **
+*** Hilo: 5 - 10.0.137.176 ***
+Inicio
+**HILO: 1 - IP: 10.1.12.72 - FF: 10:07:21 **
+**HILO: 1 - IP: 10.0.233.201 - FI: 10:07:21 **
+*** Hilo: 1 - 10.0.233.201 ***
+Inicio
+Nombre Maquina
+SO
+****FM: TCSUIO200516
+Nombre Maquina
+SO
+Antivirus
+****FM: COUIO016011
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.137.176 - FF: 10:07:25 **
+**HILO: 5 - IP: 10.0.137.161 - FI: 10:07:25 **
+*** Hilo: 5 - 10.0.137.161 ***
+Inicio
+Nombre Maquina
+SO
+Error Administradores Ingles
+Antivirus
+****FM: TCSUIO200528
+Administradores Espa¤ol
+**HILO: 1 - IP: 10.0.233.201 - FF: 10:07:28 **
+**HILO: 1 - IP: 10.0.234.33 - FI: 10:07:28 **
+*** Hilo: 1 - 10.0.234.33 ***
+Inicio
+SO
+Antivirus
+****FM: COUIO016024
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.137.161 - FF: 10:07:31 **
+**HILO: 5 - IP: 10.0.236.76 - FI: 10:07:31 **
+*** Hilo: 5 - 10.0.236.76 ***
+Inicio
+Error Administradores Ingles
+Administradores Espa¤ol
+Nombre Maquina
+**HILO: 1 - IP: 10.0.234.33 - FF: 10:07:34 **
+**HILO: 1 - IP: 10.17.22.139 - FI: 10:07:34 **
+*** Hilo: 1 - 10.17.22.139 ***
+Inicio
+SO
+****FM: TCSUIO200626
+ERROR: Nombre Maquina. U: M: 
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.236.76 - FF: 10:07:38 **
+**HILO: 5 - IP: 10.0.237.47 - FI: 10:07:38 **
+*** Hilo: 5 - 10.0.237.47 ***
+Inicio
+SO
+****FM: CRRIO330305
+Nombre Maquina
+Error Administradores Ingles
+SO
+Administradores Espa¤ol
+**HILO: 1 - IP: 10.17.22.139 - FF: 10:07:48 **
+**HILO: 1 - IP: 10.18.0.103 - FI: 10:07:48 **
+*** Hilo: 1 - 10.18.0.103 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 1 - IP: 10.18.0.103 - FF: 10:07:48 **
+**HILO: 1 - IP: 10.6.21.117 - FI: 10:07:48 **
+*** Hilo: 1 - 10.6.21.117 ***
+Inicio
+****FM: TCSUIO200637
+Nombre Maquina
+SO
+Antivirus
+****FM: CRSTO014014
+ERROR: SO
+Error Administradores Ingles
+Error Administradores Ingles
+Administradores Espa¤ol
+Administradores Espa¤ol
+**HILO: 1 - IP: 10.6.21.117 - FF: 10:08:01 **
+**HILO: 1 - IP: 10.17.22.133 - FI: 10:08:01 **
+*** Hilo: 1 - 10.17.22.133 ***
+Inicio
+**HILO: 5 - IP: 10.0.237.47 - FF: 10:08:02 **
+**HILO: 5 - IP: 10.0.236.96 - FI: 10:08:02 **
+*** Hilo: 5 - 10.0.236.96 ***
+Inicio
+Nombre Maquina
+SO
+Antivirus
+****FM: TCSUIO200653
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.236.96 - FF: 10:08:07 **
+**HILO: 5 - IP: 10.0.138.45 - FI: 10:08:07 **
+*** Hilo: 5 - 10.0.138.45 ***
+Inicio
+Nombre Maquina
+SO
+Antivirus
+****FM: TCSUIO200SS2
+Administradores Ingles
+Nombre Maquina
+Error Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.138.45 - FF: 10:08:12 **
+**HILO: 5 - IP: 10.0.97.76 - FI: 10:08:12 **
+*** Hilo: 5 - 10.0.97.76 ***
+Inicio
+SO
+Antivirus
+****FM: CRRIO330312
+ERROR: Antivirus
+**HILO: 4 - IP: 10.0.88.245 - FF: 10:08:17 **
+_____Fin Escaneo Hilo: 4 - FF: 10:08:17
+Nombre Maquina
+SO
+****FM: TCSUIO556383
+Error Administradores Ingles
+Administradores Espa¤ol
+**HILO: 1 - IP: 10.17.22.133 - FF: 10:08:26 **
+**HILO: 1 - IP: 10.150.28.89 - FI: 10:08:26 **
+*** Hilo: 1 - 10.150.28.89 ***
+Inicio
+SO
+****FM: DRECBPPRCL26
+Error Administradores Ingles
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.28.89 - FF: 10:08:31 **
+**HILO: 1 - IP: 10.150.1.74 - FI: 10:08:31 **
+*** Hilo: 1 - 10.150.1.74 ***
+Inicio
+Administradores Espa¤ol
+**HILO: 5 - IP: 10.0.97.76 - FF: 10:08:32 **
+**HILO: 5 - IP: 10.0.150.67 - FI: 10:08:32 **
+*** Hilo: 5 - 10.0.150.67 ***
+Inicio
+SO
+****FM: DRECBPPRCL20
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.1.74 - FF: 10:08:41 **
+**HILO: 1 - IP: 10.150.2.159 - FI: 10:08:41 **
+*** Hilo: 1 - 10.150.2.159 ***
+Inicio
+SO
+****FM: DRECBPPRCL4
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.2.159 - FF: 10:08:47 **
+**HILO: 1 - IP: 10.150.2.158 - FI: 10:08:47 **
+*** Hilo: 1 - 10.150.2.158 ***
+Inicio
+SO
+****FM: DRECBPPRCL4
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.2.158 - FF: 10:08:53 **
+**HILO: 1 - IP: 10.150.1.206 - FI: 10:08:53 **
+*** Hilo: 1 - 10.150.1.206 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+SO
+****FM: DRECBPPRCL6
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.1.206 - FF: 10:09:03 **
+**HILO: 1 - IP: 10.150.1.204 - FI: 10:09:03 **
+*** Hilo: 1 - 10.150.1.204 ***
+Inicio
+SO
+****FM: DRECBPPRCL6
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.1.204 - FF: 10:09:11 **
+**HILO: 1 - IP: 10.150.1.205 - FI: 10:09:11 **
+*** Hilo: 1 - 10.150.1.205 ***
+Inicio
+SO
+****FM: DRECBPPRCL6
+ERROR: SO
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.1.205 - FF: 10:09:16 **
+**HILO: 1 - IP: 10.150.1.148 - FI: 10:09:16 **
+*** Hilo: 1 - 10.150.1.148 ***
+Inicio
+SO
+****FM: DRECBPPRCL20
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.1.148 - FF: 10:09:24 **
+**HILO: 1 - IP: 10.150.1.146 - FI: 10:09:24 **
+*** Hilo: 1 - 10.150.1.146 ***
+Inicio
+SO
+****FM: DRECBPPRCL20
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.1.146 - FF: 10:09:35 **
+**HILO: 1 - IP: 10.150.28.87 - FI: 10:09:35 **
+*** Hilo: 1 - 10.150.28.87 ***
+Inicio
+ERROR: Antivirus
+**HILO: 5 - IP: 10.0.150.67 - FF: 10:09:35 **
+**HILO: 5 - IP: 10.0.238.87 - FI: 10:09:35 **
+*** Hilo: 5 - 10.0.238.87 ***
+Inicio
+ERROR: Nombre Maquina. U: M: 
+ERROR: SO
+ERROR: Antivirus
+**HILO: 5 - IP: 10.0.238.87 - FF: 10:09:36 **
+_____Fin Escaneo Hilo: 5 - FF: 10:09:36
+SO
+****FM: DRECBPPRCL26
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.28.87 - FF: 10:09:44 **
+**HILO: 1 - IP: 10.150.28.88 - FI: 10:09:44 **
+*** Hilo: 1 - 10.150.28.88 ***
+Inicio
+SO
+****FM: DRECBPPRCL26
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.28.88 - FF: 10:09:50 **
+**HILO: 1 - IP: 10.150.28.74 - FI: 10:09:50 **
+*** Hilo: 1 - 10.150.28.74 ***
+Inicio
+SO
+****FM: DRECBPPRTI12
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.28.74 - FF: 10:09:57 **
+**HILO: 1 - IP: 10.150.0.34 - FI: 10:09:57 **
+*** Hilo: 1 - 10.150.0.34 ***
+Inicio
+SO
+****FM: DRECBPPRTS7
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.0.34 - FF: 10:10:06 **
+**HILO: 1 - IP: 10.150.12.38 - FI: 10:10:06 **
+*** Hilo: 1 - 10.150.12.38 ***
+Inicio
+SO
+Antivirus
+****FM: DRECBPPRW14
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.12.38 - FF: 10:10:13 **
+**HILO: 1 - IP: 10.150.12.118 - FI: 10:10:13 **
+*** Hilo: 1 - 10.150.12.118 ***
+Inicio
+SO
+Antivirus
+****FM: DRECBPPRW19
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.12.118 - FF: 10:10:25 **
+**HILO: 1 - IP: 10.150.12.129 - FI: 10:10:25 **
+*** Hilo: 1 - 10.150.12.129 ***
+Inicio
+SO
+Antivirus
+****FM: DRECBPPRW21
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.12.129 - FF: 10:10:36 **
+**HILO: 1 - IP: 10.150.12.46 - FI: 10:10:36 **
+*** Hilo: 1 - 10.150.12.46 ***
+Inicio
+SO
+Antivirus
+****FM: DRECBPPRW43
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.12.46 - FF: 10:10:43 **
+**HILO: 1 - IP: 10.150.70.12 - FI: 10:10:43 **
+*** Hilo: 1 - 10.150.70.12 ***
+Inicio
+SO
+Antivirus
+****FM: DRECUIO012C02
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.70.12 - FF: 10:11:27 **
+**HILO: 1 - IP: 10.150.0.113 - FI: 10:11:27 **
+*** Hilo: 1 - 10.150.0.113 ***
+Inicio
+SO
+****FM: DRECUIO012CL5
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.0.113 - FF: 10:11:37 **
+**HILO: 1 - IP: 10.150.1.234 - FI: 10:11:37 **
+*** Hilo: 1 - 10.150.1.234 ***
+Inicio
+SO
+Antivirus
+****FM: DRECTEST012W70
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.1.234 - FF: 10:11:45 **
+**HILO: 1 - IP: 10.150.1.8 - FI: 10:11:45 **
+*** Hilo: 1 - 10.150.1.8 ***
+Inicio
+SO
+Antivirus
+****FM: DRECUIO012PS1
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.1.8 - FF: 10:11:51 **
+**HILO: 1 - IP: 10.150.2.83 - FI: 10:11:51 **
+*** Hilo: 1 - 10.150.2.83 ***
+Inicio
+Nombre Maquina
+SO
+****FM: DRECUIO012Q25
+Administradores Ingles
+Error Administradores Espa¤ol
+**HILO: 1 - IP: 10.150.2.83 - FF: 10:12:00 **
+_____Fin Escaneo Hilo: 1 - FF: 10:12:00

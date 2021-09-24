@@ -1,0 +1,29 @@
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoEquipos\bin\Release\EscaneoEquipos.exe.config
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoEquipos\bin\Release\EscaneoEquipos.exe
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoEquipos\bin\Release\EscaneoEquipos.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoEquipos\bin\Release\AccesoDatos.dll
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoEquipos\bin\Release\Negocios.dll
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoEquipos\bin\Release\AccesoDatos.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoEquipos\bin\Release\Negocios.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoEquipos\obj\x86\Release\EscaneoEquipos.csprojResolveAssemblyReference.cache
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoEquipos\obj\x86\Release\EscaneoEquipos.exe
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\EscaneoEquipos\obj\x86\Release\EscaneoEquipos.pdb
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoEquipos\bin\Release\EscaneoEquipos.exe.config
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoEquipos\bin\Release\EscaneoEquipos.exe
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoEquipos\bin\Release\EscaneoEquipos.pdb
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoEquipos\bin\Release\AccesoDatos.dll
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoEquipos\bin\Release\Negocios.dll
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoEquipos\bin\Release\AccesoDatos.pdb
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoEquipos\bin\Release\Negocios.pdb
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoEquipos\obj\x86\Release\EscaneoEquipos.csprojResolveAssemblyReference.cache
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoEquipos\obj\x86\Release\EscaneoEquipos.exe
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\EscaneoEquipos\obj\x86\Release\EscaneoEquipos.pdb
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\EscaneoEquipos\bin\Release\EscaneoEquipos.exe.config
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\EscaneoEquipos\bin\Release\EscaneoEquipos.exe
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\EscaneoEquipos\bin\Release\EscaneoEquipos.pdb
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\EscaneoEquipos\bin\Release\AccesoDatos.dll
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\EscaneoEquipos\bin\Release\Negocios.dll
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\EscaneoEquipos\bin\Release\AccesoDatos.pdb
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\EscaneoEquipos\bin\Release\Negocios.pdb
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\EscaneoEquipos\obj\x86\Release\EscaneoEquipos.exe
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\EscaneoEquipos\obj\x86\Release\EscaneoEquipos.pdb

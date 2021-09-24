@@ -1,0 +1,21 @@
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Negocios\bin\Release\Negocios.dll
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Negocios\bin\Release\Negocios.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Negocios\bin\Release\AccesoDatos.dll
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Negocios\bin\Release\AccesoDatos.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Negocios\obj\Release\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Negocios\obj\Release\Negocios.dll
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Negocios\obj\Release\Negocios.pdb
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Negocios\bin\Release\Negocios.dll
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Negocios\bin\Release\Negocios.pdb
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Negocios\bin\Release\AccesoDatos.dll
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Negocios\bin\Release\AccesoDatos.pdb
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Negocios\obj\Release\Negocios.csprojResolveAssemblyReference.cache
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Negocios\obj\Release\Negocios.dll
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Negocios\obj\Release\Negocios.pdb
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Negocios\bin\Release\Negocios.dll
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Negocios\bin\Release\Negocios.pdb
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Negocios\bin\Release\AccesoDatos.dll
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Negocios\bin\Release\AccesoDatos.pdb
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Negocios\obj\Release\Negocios.csprojResolveAssemblyReference.cache
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Negocios\obj\Release\Negocios.dll
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Negocios\obj\Release\Negocios.pdb

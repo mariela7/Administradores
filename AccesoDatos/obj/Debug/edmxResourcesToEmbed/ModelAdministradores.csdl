@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ControlAdministradoresModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="ControlAdministradoresEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Administradores" EntityType="ControlAdministradoresModel.Administradores" />
+    <EntitySet Name="AdministradoresEscaneados" EntityType="ControlAdministradoresModel.AdministradoresEscaneados" />
+    <EntitySet Name="Agencias" EntityType="ControlAdministradoresModel.Agencias" />
+    <EntitySet Name="Equipos" EntityType="ControlAdministradoresModel.Equipos" />
+    <EntitySet Name="Parametros" EntityType="ControlAdministradoresModel.Parametros" />
+    <FunctionImport Name="AgenciasObtenerEscaneoDiario" EntitySet="Agencias" ReturnType="Collection(ControlAdministradoresModel.Agencias)">
+      <Parameter Name="Grupo" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="ParametrosObtenerValorParametroPorCodigo" EntitySet="Parametros" ReturnType="Collection(ControlAdministradoresModel.Parametros)">
+      <Parameter Name="CodigoParametro" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="AdministradoresInsertar">
+      <Parameter Name="IdMaquina" Mode="In" Type="Int32" />
+      <Parameter Name="Administrador" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="EquiposInsertar" ReturnType="Collection(Int32)">
+      <Parameter Name="Ip" Mode="In" Type="String" />
+      <Parameter Name="Equipo" Mode="In" Type="String" />
+      <Parameter Name="SistemaOperativo" Mode="In" Type="String" />
+      <Parameter Name="UltimoUsuarioLogeado" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="EquiposAdministradoresEscaneados">
+      <Parameter Name="AdministradoresEscaneados" Mode="In" Type="String" />
+      <Parameter Name="IdMaquina" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="LogEscaneoInsertar">
+      <Parameter Name="SegmentoEscaneado" Mode="In" Type="String" />
+      <Parameter Name="Accion" Mode="In" Type="String" />
+    </FunctionImport>
+    <EntitySet Name="LogEscaneo" EntityType="ControlAdministradoresModel.LogEscaneo" />
+    <FunctionImport Name="AdministradoresEscaneadosInsertar">
+      <Parameter Name="IdMaquina" Mode="In" Type="Int32" />
+      <Parameter Name="Administrador" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="EquiposEscaneados_AdministradoresEscaneados">
+      <Parameter Name="AdministradoresEscaneados" Mode="In" Type="String" />
+      <Parameter Name="IdMaquina" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="EquiposEscaneados_Insertar" ReturnType="Collection(Int32)">
+      <Parameter Name="Ip" Mode="In" Type="String" />
+      <Parameter Name="Equipo" Mode="In" Type="String" />
+      <Parameter Name="SistemaOperativo" Mode="In" Type="String" />
+      <Parameter Name="UltimoUsuarioLogeado" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="AdministradoresNovedadesSelect" EntitySet="AdministradoresNovedades" ReturnType="Collection(ControlAdministradoresModel.AdministradoresNovedades)" />
+    <FunctionImport Name="AgenciasSelectByIdAgencia" EntitySet="Agencias" ReturnType="Collection(ControlAdministradoresModel.Agencias)">
+      <Parameter Name="IdAgencia" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="EquiposNovedadesSelect" EntitySet="EquiposNovedades" ReturnType="Collection(ControlAdministradoresModel.EquiposNovedades)" />
+    <EntitySet Name="EquiposEscaneados" EntityType="ControlAdministradoresModel.EquiposEscaneados" />
+    <EntitySet Name="EquiposNovedades" EntityType="ControlAdministradoresModel.EquiposNovedades" />
+    <EntitySet Name="AdministradoresNovedades" EntityType="ControlAdministradoresModel.AdministradoresNovedades" />
+    <FunctionImport Name="EquiposSelectByEquipo" EntitySet="Equipos" ReturnType="Collection(ControlAdministradoresModel.Equipos)">
+      <Parameter Name="Equipo" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="AdministradoresEliminar">
+      <Parameter Name="IdMaquina" Mode="In" Type="Int32" />
+      <Parameter Name="Administrador" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <EntityType Name="Administradores">
+    <Key>
+      <PropertyRef Name="IdMaquina" />
+      <PropertyRef Name="Administrador" />
+      <PropertyRef Name="Fecha" />
+    </Key>
+    <Property Name="IdMaquina" Type="Int32" Nullable="false" />
+    <Property Name="Administrador" Type="String" Nullable="false" MaxLength="300" Unicode="false" FixedLength="false" />
+    <Property Type="DateTime" Name="Fecha" Nullable="false" />
+  </EntityType>
+  <EntityType Name="AdministradoresEscaneados">
+    <Key>
+      <PropertyRef Name="IdMaquina" />
+      <PropertyRef Name="Administrador" />
+    </Key>
+    <Property Name="IdMaquina" Type="Int32" Nullable="false" />
+    <Property Name="Administrador" Type="String" Nullable="false" MaxLength="300" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Agencias">
+    <Key>
+      <PropertyRef Name="IdAgencia" />
+    </Key>
+    <Property Name="IdAgencia" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreAgencia" Type="String" Nullable="false" MaxLength="200" Unicode="false" FixedLength="false" />
+    <Property Name="Ciudad" Type="String" Nullable="false" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="Provincia" Type="String" Nullable="false" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="Subred" Type="String" Nullable="false" MaxLength="15" Unicode="false" FixedLength="false" />
+    <Property Name="Estado" Type="Boolean" Nullable="false" />
+    <Property Type="Int32" Name="Grupo" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Equipos">
+    <Key>
+      <PropertyRef Name="IdMaquina" />
+    </Key>
+    <Property Name="IdMaquina" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ip" Type="String" Nullable="false" MaxLength="15" Unicode="false" FixedLength="false" />
+    <Property Name="Equipo" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="SistemaOperativo" Type="String" MaxLength="200" Unicode="false" FixedLength="false" />
+    <Property Name="FechaRegistro" Type="DateTime" Nullable="false" />
+    <Property Type="Int32" Name="IdAgencia" Nullable="false" />
+    <Property Type="String" Name="AdministradoresEscaneados" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="UltimoUsuarioLogeado" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Parametros">
+    <Key>
+      <PropertyRef Name="Codigo" />
+    </Key>
+    <Property Name="Codigo" Type="String" Nullable="false" MaxLength="3" Unicode="false" FixedLength="true" />
+    <Property Name="Nombre" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Valor" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="LogEscaneo">
+    <Key>
+      <PropertyRef Name="IdLog" />
+    </Key>
+    <Property Type="Int32" Name="IdLog" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="SegmentoEscaneado" Nullable="false" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="Fecha" Nullable="false" />
+    <Property Type="String" Name="Accion" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="EquiposEscaneados">
+    <Key>
+      <PropertyRef Name="IdMaquina" />
+    </Key>
+    <Property Type="Int32" Name="IdMaquina" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="IdAgencia" Nullable="false" />
+    <Property Type="String" Name="Ip" Nullable="false" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Equipo" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="SistemaOperativo" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="UltimoUsuarioLogeado" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="FechaRegistro" Nullable="false" />
+    <Property Type="String" Name="AdministradoresEscaneados" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="EquiposNovedades">
+    <Key>
+      <PropertyRef Name="IdMaquina" />
+    </Key>
+    <Property Type="Int32" Name="IdMaquina" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="IdAgencia" Nullable="false" />
+    <Property Type="String" Name="Ip" Nullable="false" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Equipo" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="SistemaOperativo" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="UltimoUsuarioLogeado" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="FechaRegistro" Nullable="false" />
+  </EntityType>
+  <EntityType Name="AdministradoresNovedades">
+    <Key>
+      <PropertyRef Name="IdMaquina" />
+      <PropertyRef Name="Administrador" />
+      <PropertyRef Name="Fecha" />
+      <PropertyRef Name="Accion" />
+    </Key>
+    <Property Type="Int32" Name="IdMaquina" Nullable="false" />
+    <Property Type="String" Name="Administrador" Nullable="false" MaxLength="300" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="Fecha" Nullable="false" />
+    <Property Type="String" Name="Accion" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+  </EntityType>
+</Schema>

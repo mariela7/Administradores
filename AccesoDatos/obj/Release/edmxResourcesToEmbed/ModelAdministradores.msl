@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ControlAdministradoresModelStoreContainer" CdmEntityContainer="ControlAdministradoresEntities">
+    <FunctionImportMapping FunctionImportName="AgenciasObtenerEscaneoDiario" FunctionName="ControlAdministradoresModel.Store.AgenciasObtenerEscaneoDiario" />
+    <FunctionImportMapping FunctionImportName="ParametrosObtenerValorParametroPorCodigo" FunctionName="ControlAdministradoresModel.Store.ParametrosObtenerValorParametroPorCodigo" />
+    <FunctionImportMapping FunctionImportName="AdministradoresInsertar" FunctionName="ControlAdministradoresModel.Store.AdministradoresInsertar" />
+    <FunctionImportMapping FunctionImportName="EquiposInsertar" FunctionName="ControlAdministradoresModel.Store.EquiposInsertar" />
+    <FunctionImportMapping FunctionImportName="EquiposAdministradoresEscaneados" FunctionName="ControlAdministradoresModel.Store.EquiposAdministradoresEscaneados" />
+    <FunctionImportMapping FunctionImportName="LogEscaneoInsertar" FunctionName="ControlAdministradoresModel.Store.LogEscaneoInsertar" />
+    <FunctionImportMapping FunctionImportName="AdministradoresEscaneadosInsertar" FunctionName="ControlAdministradoresModel.Store.AdministradoresEscaneadosInsertar" />
+    <FunctionImportMapping FunctionImportName="EquiposEscaneados_AdministradoresEscaneados" FunctionName="ControlAdministradoresModel.Store.EquiposEscaneados_AdministradoresEscaneados" />
+    <FunctionImportMapping FunctionImportName="EquiposEscaneados_Insertar" FunctionName="ControlAdministradoresModel.Store.EquiposEscaneados_Insertar" />
+    <FunctionImportMapping FunctionImportName="AdministradoresNovedadesSelect" FunctionName="ControlAdministradoresModel.Store.AdministradoresNovedadesSelect" />
+    <FunctionImportMapping FunctionImportName="AgenciasSelectByIdAgencia" FunctionName="ControlAdministradoresModel.Store.AgenciasSelectByIdAgencia" />
+    <FunctionImportMapping FunctionImportName="EquiposNovedadesSelect" FunctionName="ControlAdministradoresModel.Store.EquiposNovedadesSelect" />
+    <FunctionImportMapping FunctionImportName="EquiposSelectByEquipo" FunctionName="ControlAdministradoresModel.Store.EquiposSelectByEquipo" />
+    <FunctionImportMapping FunctionImportName="AdministradoresEliminar" FunctionName="ControlAdministradoresModel.Store.AdministradoresEliminar" />
+    <FunctionImportMapping FunctionImportName="AdministradoresNovedadesEliminar" FunctionName="ControlAdministradoresModel.Store.AdministradoresNovedadesEliminar" />
+    <FunctionImportMapping FunctionImportName="AdministradorEstaExepcionado" FunctionName="ControlAdministradoresModel.Store.AdministradorEstaExepcionado" />
+    <FunctionImportMapping FunctionImportName="HistoricosDepurados_Insertar" FunctionName="ControlAdministradoresModel.Store.HistoricosDepurados_Insertar" />
+    <EntitySetMapping Name="Administradores">
+      <EntityTypeMapping TypeName="ControlAdministradoresModel.Administradores">
+        <MappingFragment StoreEntitySet="Administradores">
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Administrador" ColumnName="Administrador" />
+          <ScalarProperty Name="IdMaquina" ColumnName="IdMaquina" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AdministradoresEscaneados">
+      <EntityTypeMapping TypeName="ControlAdministradoresModel.AdministradoresEscaneados">
+        <MappingFragment StoreEntitySet="AdministradoresEscaneados">
+          <ScalarProperty Name="Administrador" ColumnName="Administrador" />
+          <ScalarProperty Name="IdMaquina" ColumnName="IdMaquina" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AdministradoresNovedades">
+      <EntityTypeMapping TypeName="ControlAdministradoresModel.AdministradoresNovedades">
+        <MappingFragment StoreEntitySet="AdministradoresNovedades">
+          <ScalarProperty Name="Accion" ColumnName="Accion" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Administrador" ColumnName="Administrador" />
+          <ScalarProperty Name="IdMaquina" ColumnName="IdMaquina" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Agencias">
+      <EntityTypeMapping TypeName="ControlAdministradoresModel.Agencias">
+        <MappingFragment StoreEntitySet="Agencias">
+          <ScalarProperty Name="Grupo" ColumnName="Grupo" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="Subred" ColumnName="Subred" />
+          <ScalarProperty Name="Provincia" ColumnName="Provincia" />
+          <ScalarProperty Name="Ciudad" ColumnName="Ciudad" />
+          <ScalarProperty Name="NombreAgencia" ColumnName="NombreAgencia" />
+          <ScalarProperty Name="IdAgencia" ColumnName="IdAgencia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Equipos">
+      <EntityTypeMapping TypeName="ControlAdministradoresModel.Equipos">
+        <MappingFragment StoreEntitySet="Equipos">
+          <ScalarProperty Name="FechaActualizacion" ColumnName="FechaActualizacion" />
+          <ScalarProperty Name="Antivirus" ColumnName="Antivirus" />
+          <ScalarProperty Name="AdministradoresEscaneados" ColumnName="AdministradoresEscaneados" />
+          <ScalarProperty Name="FechaRegistro" ColumnName="FechaRegistro" />
+          <ScalarProperty Name="UltimoUsuarioLogeado" ColumnName="UltimoUsuarioLogeado" />
+          <ScalarProperty Name="SistemaOperativo" ColumnName="SistemaOperativo" />
+          <ScalarProperty Name="Equipo" ColumnName="Equipo" />
+          <ScalarProperty Name="Ip" ColumnName="Ip" />
+          <ScalarProperty Name="IdAgencia" ColumnName="IdAgencia" />
+          <ScalarProperty Name="IdMaquina" ColumnName="IdMaquina" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EquiposEscaneados">
+      <EntityTypeMapping TypeName="ControlAdministradoresModel.EquiposEscaneados">
+        <MappingFragment StoreEntitySet="EquiposEscaneados">
+          <ScalarProperty Name="Antivirus" ColumnName="Antivirus" />
+          <ScalarProperty Name="AdministradoresEscaneados" ColumnName="AdministradoresEscaneados" />
+          <ScalarProperty Name="FechaRegistro" ColumnName="FechaRegistro" />
+          <ScalarProperty Name="UltimoUsuarioLogeado" ColumnName="UltimoUsuarioLogeado" />
+          <ScalarProperty Name="SistemaOperativo" ColumnName="SistemaOperativo" />
+          <ScalarProperty Name="Equipo" ColumnName="Equipo" />
+          <ScalarProperty Name="Ip" ColumnName="Ip" />
+          <ScalarProperty Name="IdAgencia" ColumnName="IdAgencia" />
+          <ScalarProperty Name="IdMaquina" ColumnName="IdMaquina" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LogEscaneo">
+      <EntityTypeMapping TypeName="ControlAdministradoresModel.LogEscaneo">
+        <MappingFragment StoreEntitySet="LogEscaneo">
+          <ScalarProperty Name="TTL" ColumnName="TTL" />
+          <ScalarProperty Name="Accion" ColumnName="Accion" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="SegmentoEscaneado" ColumnName="SegmentoEscaneado" />
+          <ScalarProperty Name="IdLog" ColumnName="IdLog" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Parametros">
+      <EntityTypeMapping TypeName="ControlAdministradoresModel.Parametros">
+        <MappingFragment StoreEntitySet="Parametros">
+          <ScalarProperty Name="Valor" ColumnName="Valor" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EquiposNovedadesAntivirus">
+      <EntityTypeMapping TypeName="ControlAdministradoresModel.EquiposNovedadesAntivirus">
+        <MappingFragment StoreEntitySet="EquiposNovedadesAntivirus">
+          <ScalarProperty Name="Antivirus" ColumnName="Antivirus" />
+          <ScalarProperty Name="FechaRegistro" ColumnName="FechaRegistro" />
+          <ScalarProperty Name="SistemaOperativo" ColumnName="SistemaOperativo" />
+          <ScalarProperty Name="Equipo" ColumnName="Equipo" />
+          <ScalarProperty Name="Ip" ColumnName="Ip" />
+          <ScalarProperty Name="IdAgencia" ColumnName="IdAgencia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="EquiposNovedadesAntivirus_Select" FunctionName="ControlAdministradoresModel.Store.EquiposNovedadesAntivirus_Select" />
+    <FunctionImportMapping FunctionImportName="AdministradorEliminadoAntes" FunctionName="ControlAdministradoresModel.Store.AdministradorEliminadoAntes" />
+    <EntitySetMapping Name="EquiposNovedades">
+      <EntityTypeMapping TypeName="ControlAdministradoresModel.EquiposNovedades">
+        <MappingFragment StoreEntitySet="EquiposNovedades">
+          <ScalarProperty Name="Antivirus" ColumnName="Antivirus" />
+          <ScalarProperty Name="FechaRegistro" ColumnName="FechaRegistro" />
+          <ScalarProperty Name="UltimoUsuarioLogeado" ColumnName="UltimoUsuarioLogeado" />
+          <ScalarProperty Name="SistemaOperativo" ColumnName="SistemaOperativo" />
+          <ScalarProperty Name="Equipo" ColumnName="Equipo" />
+          <ScalarProperty Name="Ip" ColumnName="Ip" />
+          <ScalarProperty Name="IdAgencia" ColumnName="IdAgencia" />
+          <ScalarProperty Name="IdMaquina" ColumnName="IdMaquina" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="EquiposModificar" FunctionName="ControlAdministradoresModel.Store.EquiposModificar" />
+    <FunctionImportMapping FunctionImportName="Reporte_EquiposPorAgencia_total" FunctionName="ControlAdministradoresModel.Store.Reporte_EquiposPorAgencia_total">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ControlAdministradoresModel.Reporte_EquiposPorAgenciaTotal">
+          <ScalarProperty Name="Provincia" ColumnName="Provincia" />
+          <ScalarProperty Name="Ciudad" ColumnName="Ciudad" />
+          <ScalarProperty Name="Agencia" ColumnName="Agencia" />
+          <ScalarProperty Name="Subred" ColumnName="Subred" />
+          <ScalarProperty Name="Equipos" ColumnName="Equipos" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="AgenciasObtenerActivas" FunctionName="ControlAdministradoresModel.Store.AgenciasObtenerActivas" />
+    <EntitySetMapping Name="LineaBase">
+      <EntityTypeMapping TypeName="ControlAdministradoresModel.LineaBase">
+        <MappingFragment StoreEntitySet="LineaBase">
+          <ScalarProperty Name="Usuario" ColumnName="Usuario" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="LineaBaseEliminar" FunctionName="ControlAdministradoresModel.Store.LineaBaseEliminar" />
+    <FunctionImportMapping FunctionImportName="LineaBaseModificar" FunctionName="ControlAdministradoresModel.Store.LineaBaseModificar" />
+    <FunctionImportMapping FunctionImportName="LineaBaseSelectAll" FunctionName="ControlAdministradoresModel.Store.LineaBaseSelectAll" />
+    <FunctionImportMapping FunctionImportName="LineaBaseInsertar" FunctionName="ControlAdministradoresModel.Store.LineaBaseInsertar" />
+    <EntitySetMapping Name="CiudadesEcuador">
+      <EntityTypeMapping TypeName="ControlAdministradoresModel.CiudadesEcuador">
+        <MappingFragment StoreEntitySet="CiudadesEcuador">
+          <ScalarProperty Name="Ciudad" ColumnName="Ciudad" />
+          <ScalarProperty Name="IdProvincia" ColumnName="IdProvincia" />
+          <ScalarProperty Name="IdCiudad" ColumnName="IdCiudad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProvinciasEcuador">
+      <EntityTypeMapping TypeName="ControlAdministradoresModel.ProvinciasEcuador">
+        <MappingFragment StoreEntitySet="ProvinciasEcuador">
+          <ScalarProperty Name="Provincia" ColumnName="Provincia" />
+          <ScalarProperty Name="IdProvincia" ColumnName="IdProvincia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ReporteDetalleEquipos">
+      <EntityTypeMapping TypeName="ControlAdministradoresModel.ReporteDetalleEquipos">
+        <MappingFragment StoreEntitySet="ReporteDetalleEquipos">
+          <ScalarProperty Name="FechaActualizaciónAntivirus" ColumnName="FechaActualizaciónAntivirus" />
+          <ScalarProperty Name="EstadoAntivirus" ColumnName="EstadoAntivirus" />
+          <ScalarProperty Name="FechaUltimaActividad" ColumnName="FechaUltimaActividad" />
+          <ScalarProperty Name="FechaRegistro" ColumnName="FechaRegistro" />
+          <ScalarProperty Name="UltimoUsuarioLogeado" ColumnName="UltimoUsuarioLogeado" />
+          <ScalarProperty Name="SistemaOperativo" ColumnName="SistemaOperativo" />
+          <ScalarProperty Name="Ip" ColumnName="Ip" />
+          <ScalarProperty Name="Equipo" ColumnName="Equipo" />
+          <ScalarProperty Name="EstadoAgencia" ColumnName="EstadoAgencia" />
+          <ScalarProperty Name="Subred" ColumnName="Subred" />
+          <ScalarProperty Name="Agencia" ColumnName="Agencia" />
+          <ScalarProperty Name="Ciudad" ColumnName="Ciudad" />
+          <ScalarProperty Name="Provincia" ColumnName="Provincia" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="ProvinciasSelectAll" FunctionName="ControlAdministradoresModel.Store.ProvinciasSelectAll" />
+    <FunctionImportMapping FunctionImportName="Provincias_HabilitadasDeshabilitadas" FunctionName="ControlAdministradoresModel.Store.Provincias_HabilitadasDeshabilitadas" />
+    <FunctionImportMapping FunctionImportName="CiudadesSelectByIdProvincia" FunctionName="ControlAdministradoresModel.Store.CiudadesSelectByIdProvincia" />
+    <FunctionImportMapping FunctionImportName="Reporte_EquiposDetalle" FunctionName="ControlAdministradoresModel.Store.Reporte_EquiposDetalle" />
+    <FunctionImportMapping FunctionImportName="Ciudades_HabilitadasDeshabilitadas" FunctionName="ControlAdministradoresModel.Store.Ciudades_HabilitadasDeshabilitadas" />
+    <FunctionImportMapping FunctionImportName="Agencias_HabilitadasDeshabilitadas" FunctionName="ControlAdministradoresModel.Store.Agencias_HabilitadasDeshabilitadas" />
+    <FunctionImportMapping FunctionImportName="Log_RevisionEjecucion" FunctionName="ControlAdministradoresModel.Store.Log_RevisionEjecucion">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ControlAdministradoresModel.Log_RevisionEjecucion">
+          <ScalarProperty Name="SegmentoEscaneado" ColumnName="SegmentoEscaneado" />
+          <ScalarProperty Name="NGroup" ColumnName="NGroup" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="IpsActivas" ColumnName="IpsActivas" />
+          <ScalarProperty Name="IpsInvalidas" ColumnName="IpsInvalidas" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="Reporte_AdministradoresNovedades_All" FunctionName="ControlAdministradoresModel.Store.Reporte_AdministradoresNovedades_All">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ControlAdministradoresModel.Reporte_AdministradoresNovedades_All">
+          <ScalarProperty Name="Provincia" ColumnName="Provincia" />
+          <ScalarProperty Name="Ciudad" ColumnName="Ciudad" />
+          <ScalarProperty Name="Agencia" ColumnName="Agencia" />
+          <ScalarProperty Name="Subred" ColumnName="Subred" />
+          <ScalarProperty Name="Equipo" ColumnName="Equipo" />
+          <ScalarProperty Name="SistemaOperativo" ColumnName="SistemaOperativo" />
+          <ScalarProperty Name="UltimoUsuarioLogeado" ColumnName="UltimoUsuarioLogeado" />
+          <ScalarProperty Name="Administrador" ColumnName="Administrador" />
+          <ScalarProperty Name="NovedadesReportadas" ColumnName="NovedadesReportadas" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="Agencias_HabilitarDeshabilitar" FunctionName="ControlAdministradoresModel.Store.Agencias_HabilitarDeshabilitar" />
+    <FunctionImportMapping FunctionImportName="Agencias_SelectByGrupo" FunctionName="ControlAdministradoresModel.Store.Agencias_SelectByGrupo" />
+    <FunctionImportMapping FunctionImportName="Agencias_UpdateGrupo" FunctionName="ControlAdministradoresModel.Store.Agencias_UpdateGrupo" />
+    <FunctionImportMapping FunctionImportName="AgenciasInsertar" FunctionName="ControlAdministradoresModel.Store.AgenciasInsertar" />
+    <FunctionImportMapping FunctionImportName="AgenciaSubredExiste" FunctionName="ControlAdministradoresModel.Store.AgenciaSubredExiste" />
+    <FunctionImportMapping FunctionImportName="Grupos_SelectAll" FunctionName="ControlAdministradoresModel.Store.Grupos_SelectAll">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ControlAdministradoresModel.Grupos_SelectAll">
+          <ScalarProperty Name="Grupo" ColumnName="Grupo" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="Reporte_AdministradoresNovedades_ByEquipoYAdmin" FunctionName="ControlAdministradoresModel.Store.Reporte_AdministradoresNovedades_ByEquipoYAdmin">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ControlAdministradoresModel.Reporte_AdministradoresNovedades_ByEquipoYAdmin">
+          <ScalarProperty Name="Provincia" ColumnName="Provincia" />
+          <ScalarProperty Name="Ciudad" ColumnName="Ciudad" />
+          <ScalarProperty Name="Agencia" ColumnName="Agencia" />
+          <ScalarProperty Name="Subred" ColumnName="Subred" />
+          <ScalarProperty Name="Grupo" ColumnName="Grupo" />
+          <ScalarProperty Name="Ip" ColumnName="Ip" />
+          <ScalarProperty Name="Equipo" ColumnName="Equipo" />
+          <ScalarProperty Name="SistemaOperativo" ColumnName="SistemaOperativo" />
+          <ScalarProperty Name="UltimoUsuarioLogeado" ColumnName="UltimoUsuarioLogeado" />
+          <ScalarProperty Name="Administrador" ColumnName="Administrador" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="Reporte_AdministradoresNovedades_Mensual" FunctionName="ControlAdministradoresModel.Store.Reporte_AdministradoresNovedades_Mensual">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ControlAdministradoresModel.Reporte_AdministradoresNovedades_All">
+          <ScalarProperty Name="Provincia" ColumnName="Provincia" />
+          <ScalarProperty Name="Ciudad" ColumnName="Ciudad" />
+          <ScalarProperty Name="Agencia" ColumnName="Agencia" />
+          <ScalarProperty Name="Subred" ColumnName="Subred" />
+          <ScalarProperty Name="Equipo" ColumnName="Equipo" />
+          <ScalarProperty Name="SistemaOperativo" ColumnName="SistemaOperativo" />
+          <ScalarProperty Name="UltimoUsuarioLogeado" ColumnName="UltimoUsuarioLogeado" />
+          <ScalarProperty Name="Administrador" ColumnName="Administrador" />
+          <ScalarProperty Name="NovedadesReportadas" ColumnName="NovedadesReportadas" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="Reporte_AdmisAdd_Mensual" FunctionName="ControlAdministradoresModel.Store.Reporte_AdmisAdd_Mensual">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ControlAdministradoresModel.Reporte_AdmisAdd_Mensual">
+          <ScalarProperty Name="Provincia" ColumnName="Provincia" />
+          <ScalarProperty Name="Ciudad" ColumnName="Ciudad" />
+          <ScalarProperty Name="NombreAgencia" ColumnName="NombreAgencia" />
+          <ScalarProperty Name="Equipo" ColumnName="Equipo" />
+          <ScalarProperty Name="Ip" ColumnName="Ip" />
+          <ScalarProperty Name="Administrador" ColumnName="Administrador" />
+          <ScalarProperty Name="FechaDeteccion" ColumnName="FechaDeteccion" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

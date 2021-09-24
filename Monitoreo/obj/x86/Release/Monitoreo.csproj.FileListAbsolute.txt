@@ -1,0 +1,70 @@
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\bin\Release\Monitoreo.exe.config
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\bin\Release\Monitoreo.exe.manifest
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\bin\Release\Monitoreo.application
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\bin\Release\Monitoreo.exe
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\bin\Release\Monitoreo.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\bin\Release\AccesoDatos.dll
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\bin\Release\EscaneoRedes.exe
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\bin\Release\Negocios.dll
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\bin\Release\AccesoDatos.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\bin\Release\Negocios.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.csprojResolveAssemblyReference.cache
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.Control_AgenciaAgregar.resources
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.Control_AgenciaHabilitarDeshabilitar.resources
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.Control_GruposAdministrar.resources
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.Control_LogEscaneo.resources
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.frmMonitoreo.resources
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.Properties.Resources.resources
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.csproj.GenerateResource.Cache
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.exe.manifest
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.application
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.exe
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.pdb
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\bin\Release\Monitoreo.exe.config
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.exe
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.pdb
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\bin\Release\Monitoreo.exe.manifest
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\bin\Release\Monitoreo.application
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\bin\Release\Monitoreo.exe
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\bin\Release\Monitoreo.pdb
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\bin\Release\AccesoDatos.dll
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\bin\Release\EscaneoRedes.exe
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\bin\Release\Negocios.dll
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\bin\Release\AccesoDatos.pdb
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\bin\Release\Negocios.pdb
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\bin\Release\EscaneoRedes.pdb
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.csprojResolveAssemblyReference.cache
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.Control_AgenciaAgregar.resources
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.Control_AgenciaHabilitarDeshabilitar.resources
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.Control_GruposAdministrar.resources
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.Control_LogEscaneo.resources
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.frmMonitoreo.resources
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.Properties.Resources.resources
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.csproj.GenerateResource.Cache
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.exe.manifest
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.application
+D:\Mariela\Control Privilegios de Administrador\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.Control_AdministrarLineaBase.resources
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\bin\Release\Monitoreo.exe.config
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.exe
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.pdb
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\bin\Release\Monitoreo.exe.manifest
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\bin\Release\Monitoreo.application
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\bin\Release\Monitoreo.exe
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\bin\Release\Monitoreo.pdb
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\bin\Release\AccesoDatos.dll
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\bin\Release\EscaneoRedes.exe
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\bin\Release\Negocios.dll
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\bin\Release\AccesoDatos.pdb
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\bin\Release\Negocios.pdb
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\bin\Release\EscaneoRedes.pdb
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.csprojResolveAssemblyReference.cache
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.Control_AdministrarLineaBase.resources
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.Control_AgenciaAgregar.resources
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.Control_AgenciaHabilitarDeshabilitar.resources
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.Control_GruposAdministrar.resources
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.Control_LogEscaneo.resources
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.frmMonitoreo.resources
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.Properties.Resources.resources
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.csproj.GenerateResource.Cache
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.exe.manifest
+D:\Mariela\Control Privilegios de Administrador\Operaciones\Solution_Administradores\Monitoreo\obj\x86\Release\Monitoreo.application

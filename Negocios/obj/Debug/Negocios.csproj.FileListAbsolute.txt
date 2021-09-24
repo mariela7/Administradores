@@ -1,0 +1,7 @@
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Negocios\bin\Debug\Negocios.dll
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Negocios\bin\Debug\Negocios.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Negocios\bin\Debug\AccesoDatos.dll
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Negocios\bin\Debug\AccesoDatos.pdb
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Negocios\obj\Debug\Negocios.dll
+C:\Users\mparraga\Documents\Visual Studio 2010\Projects\Solution_Administradores\Negocios\obj\Debug\Negocios.pdb

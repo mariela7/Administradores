@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ControlAdministradoresModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="ControlAdministradoresModelStoreContainer">
+    <EntitySet Name="Administradores" EntityType="ControlAdministradoresModel.Store.Administradores" store:Type="Tables" store:Schema="dbo" store:Name="Administradores">
+      <DefiningQuery>SELECT 
+      [Administradores].[IdMaquina] AS [IdMaquina], 
+      [Administradores].[Administrador] AS [Administrador], 
+      [Administradores].[Fecha] AS [Fecha]
+      FROM [dbo].[Administradores] AS [Administradores]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="AdministradoresEscaneados" EntityType="ControlAdministradoresModel.Store.AdministradoresEscaneados" store:Type="Tables" store:Schema="dbo" store:Name="AdministradoresEscaneados">
+      <DefiningQuery>SELECT 
+      [AdministradoresEscaneados].[IdMaquina] AS [IdMaquina], 
+      [AdministradoresEscaneados].[Administrador] AS [Administrador]
+      FROM [dbo].[AdministradoresEscaneados] AS [AdministradoresEscaneados]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="AdministradoresNovedades" EntityType="ControlAdministradoresModel.Store.AdministradoresNovedades" store:Type="Tables" store:Schema="dbo" store:Name="AdministradoresNovedades">
+      <DefiningQuery>SELECT 
+      [AdministradoresNovedades].[IdMaquina] AS [IdMaquina], 
+      [AdministradoresNovedades].[Administrador] AS [Administrador], 
+      [AdministradoresNovedades].[Fecha] AS [Fecha], 
+      [AdministradoresNovedades].[Accion] AS [Accion]
+      FROM [dbo].[AdministradoresNovedades] AS [AdministradoresNovedades]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Agencias" EntityType="ControlAdministradoresModel.Store.Agencias" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Equipos" EntityType="ControlAdministradoresModel.Store.Equipos" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="EquiposEscaneados" EntityType="ControlAdministradoresModel.Store.EquiposEscaneados" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="EquiposNovedades" EntityType="ControlAdministradoresModel.Store.EquiposNovedades" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="LogEscaneo" EntityType="ControlAdministradoresModel.Store.LogEscaneo" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Parametros" EntityType="ControlAdministradoresModel.Store.Parametros" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'ControlAdministradores.dbo.Administradores' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="Administradores">
+    <Key>
+      <PropertyRef Name="IdMaquina" />
+      <PropertyRef Name="Administrador" />
+      <PropertyRef Name="Fecha" />
+    </Key>
+    <Property Name="IdMaquina" Type="int" Nullable="false" />
+    <Property Name="Administrador" Type="varchar" Nullable="false" MaxLength="300" />
+    <Property Name="Fecha" Type="datetime" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'ControlAdministradores.dbo.AdministradoresEscaneados' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="AdministradoresEscaneados">
+    <Key>
+      <PropertyRef Name="IdMaquina" />
+      <PropertyRef Name="Administrador" />
+    </Key>
+    <Property Name="IdMaquina" Type="int" Nullable="false" />
+    <Property Name="Administrador" Type="varchar" Nullable="false" MaxLength="300" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'ControlAdministradores.dbo.AdministradoresNovedades' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="AdministradoresNovedades">
+    <Key>
+      <PropertyRef Name="IdMaquina" />
+      <PropertyRef Name="Administrador" />
+      <PropertyRef Name="Fecha" />
+      <PropertyRef Name="Accion" />
+    </Key>
+    <Property Name="IdMaquina" Type="int" Nullable="false" />
+    <Property Name="Administrador" Type="varchar" Nullable="false" MaxLength="300" />
+    <Property Name="Fecha" Type="datetime" Nullable="false" />
+    <Property Name="Accion" Type="varchar" Nullable="false" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Agencias">
+    <Key>
+      <PropertyRef Name="IdAgencia" />
+    </Key>
+    <Property Name="IdAgencia" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="NombreAgencia" Type="varchar" Nullable="false" MaxLength="200" />
+    <Property Name="Ciudad" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="Provincia" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="Subred" Type="varchar" Nullable="false" MaxLength="15" />
+    <Property Name="Estado" Type="bit" Nullable="false" />
+    <Property Name="Grupo" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Equipos">
+    <Key>
+      <PropertyRef Name="IdMaquina" />
+    </Key>
+    <Property Name="IdMaquina" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="IdAgencia" Type="int" Nullable="false" />
+    <Property Name="Ip" Type="varchar" Nullable="false" MaxLength="15" />
+    <Property Name="Equipo" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="SistemaOperativo" Type="varchar" MaxLength="200" />
+    <Property Name="UltimoUsuarioLogeado" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="FechaRegistro" Type="datetime" Nullable="false" />
+    <Property Name="AdministradoresEscaneados" Type="varchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="EquiposEscaneados">
+    <Key>
+      <PropertyRef Name="IdMaquina" />
+    </Key>
+    <Property Name="IdMaquina" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="IdAgencia" Type="int" Nullable="false" />
+    <Property Name="Ip" Type="varchar" Nullable="false" MaxLength="15" />
+    <Property Name="Equipo" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="SistemaOperativo" Type="varchar" MaxLength="200" />
+    <Property Name="UltimoUsuarioLogeado" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="FechaRegistro" Type="datetime" Nullable="false" />
+    <Property Name="AdministradoresEscaneados" Type="varchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="EquiposNovedades">
+    <Key>
+      <PropertyRef Name="IdMaquina" />
+    </Key>
+    <Property Name="IdMaquina" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="IdAgencia" Type="int" Nullable="false" />
+    <Property Name="Ip" Type="varchar" Nullable="false" MaxLength="15" />
+    <Property Name="Equipo" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="SistemaOperativo" Type="varchar" MaxLength="200" />
+    <Property Name="UltimoUsuarioLogeado" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="FechaRegistro" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="LogEscaneo">
+    <Key>
+      <PropertyRef Name="IdLog" />
+    </Key>
+    <Property Name="IdLog" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="SegmentoEscaneado" Type="varchar" Nullable="false" MaxLength="15" />
+    <Property Name="Fecha" Type="datetime" Nullable="false" />
+    <Property Name="Accion" Type="text" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Parametros">
+    <Key>
+      <PropertyRef Name="Codigo" />
+    </Key>
+    <Property Name="Codigo" Type="char" Nullable="false" MaxLength="3" />
+    <Property Name="Nombre" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Valor" Type="int" Nullable="false" />
+  </EntityType>
+  <Function Name="AdministradoresEliminar" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdMaquina" Type="int" Mode="In" />
+    <Parameter Name="Administrador" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="AdministradoresEscaneadosInsertar" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdMaquina" Type="int" Mode="In" />
+    <Parameter Name="Administrador" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="AdministradoresInsertar" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdMaquina" Type="int" Mode="In" />
+    <Parameter Name="Administrador" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="AdministradoresNovedadesSelect" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="AgenciasObtenerEscaneoDiario" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Grupo" Type="int" Mode="In" />
+  </Function>
+  <Function Name="AgenciasSelectByIdAgencia" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdAgencia" Type="int" Mode="In" />
+  </Function>
+  <Function Name="EquiposAdministradoresEscaneados" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="AdministradoresEscaneados" Type="varchar" Mode="In" />
+    <Parameter Name="IdMaquina" Type="int" Mode="In" />
+  </Function>
+  <Function Name="EquiposEscaneados_AdministradoresEscaneados" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="AdministradoresEscaneados" Type="varchar" Mode="In" />
+    <Parameter Name="IdMaquina" Type="int" Mode="In" />
+  </Function>
+  <Function Name="EquiposEscaneados_Insertar" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Ip" Type="varchar" Mode="In" />
+    <Parameter Name="Equipo" Type="varchar" Mode="In" />
+    <Parameter Name="SistemaOperativo" Type="varchar" Mode="In" />
+    <Parameter Name="UltimoUsuarioLogeado" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="EquiposInsertar" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Ip" Type="varchar" Mode="In" />
+    <Parameter Name="Equipo" Type="varchar" Mode="In" />
+    <Parameter Name="SistemaOperativo" Type="varchar" Mode="In" />
+    <Parameter Name="UltimoUsuarioLogeado" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="EquiposNovedadesSelect" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="EquiposSelectByEquipo" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Equipo" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="LogEscaneoInsertar" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="SegmentoEscaneado" Type="varchar" Mode="In" />
+    <Parameter Name="Accion" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="ParametrosObtenerValorParametroPorCodigo" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="CodigoParametro" Type="char" Mode="In" />
+  </Function>
+</Schema>
